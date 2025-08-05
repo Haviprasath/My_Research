@@ -1,0 +1,945 @@
+Brand,Model,RAM,Storage,Battery_Capacity,Front_Camera_Specs,Cam_01,Cam_02,Cam_03,Cam_04,Processor,Weight_Grams,OS_Version,Display_Type,Network,Display_RefreshRate,Has_Face_ID,Has_Fingerprint,Display_Condition_Category,Physical_Condition_Category,Phone_Overheating_Label,Touchscreen_Working_Label,Buttons_Working_Label,Charging_Port_Working_Label,Camera_Working_Label,Fingerprint_Working_Label,Face_ID_Working_Label,Speaker_Clear_Label,Charger_Included_Label,Box_Included_Label,Display_Protection_Label,Original_Accessories_Label,Is_Price_Negotiable_Label,Software_Warranty_Label,Hardware_Warranty_Label,Parts_Changed_Label,price,Release_Year
+Vivo,Y93,6,128,4030,8,13,0,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,"Rs 12,000",2018
+Xiaomi,Redmi Note 10s,6,128,5000,13,64,0,0,0,MediaTek Helio G95,178.8,Android 13 (MIUI),AMOLED,4G LTE,60,yes,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,"Rs 30,000",2021
+Xiaomi,Redmi Note 9,3,64,5020,13,48,8,2,2,Mediatek Helio G85 (12 nm),199,"Android 10, MIUI 13",IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 16,000",2020
+Samsung,Galaxy A12,4,64,5000,8,48,0,0,0,Mediatek MT6765 Helio P35 (12 nm),205,Android 10,PLS LCD,4G,60,yes,yes,Moderate,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 24,000",2021
+Honor,X5 Plus,4,64,5200,5,50,0,0,0,Mediatek Helio G36 (12 nm),188,"Android 13, MagicOS 7.1",TFT LCD,4G,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 17,500",2023
+Honor,X5b,4,64,5000,13,5,0,0,0,Mediatek Helio G36 (12 nm),194,"Android 14, Magic OS 8",TFT LCD,4G,90,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 18,000",2024
+Honor,X5b,4,64,5000,13,5,0,0,0,Mediatek Helio G36 (12 nm),194,"Android 14, Magic OS 8",TFT LCD,4G,90,yes,yes,Minor Cosmetic Damage,Moderate,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,"Rs 18,000",2024
+Honor,X5 Plus,4,64,5200,5,50,0,0,0,Mediatek Helio G36 (12 nm),188,"Android 13, MagicOS 7.1",TFT LCD,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,"Rs 19,500",2023
+Honor,X5 Plus,4,64,5200,5,50,0,0,0,Mediatek Helio G36 (12 nm),188,"Android 13, MagicOS 7.1",TFT LCD,4G,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,"Rs 19,900",2023
+Honor,X5b,4,64,5000,13,5,0,0,0,Mediatek Helio G36 (12 nm),194,"Android 14, Magic OS 8",TFT LCD,4G,90,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,"Rs 19,900",2024
+Honor,X5 Plus,4,64,5200,5,50,0,0,0,Mediatek Helio G36 (12 nm),188,"Android 13, MagicOS 7.1",TFT LCD,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 19,900",2023
+Honor,X5b,4,64,5000,13,5,0,0,0,Mediatek Helio G36 (12 nm),194,"Android 14, Magic OS 8",TFT LCD,4G,90,yes,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,"Rs 20,000",2024
+Honor,X5 Plus,4,64,5200,5,50,0,0,0,Mediatek Helio G36 (12 nm),188,"Android 13, MagicOS 7.1",TFT LCD,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,"Rs 20,000",2023
+Honor,X7b,8,256,6000,8,108,0,0,0,Snapdragon 680 4G,199,"Android 13, MagicOS 7.1",IPS LCD,4G,90,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,"Rs 55,000",2023
+Honor,X7b,8,256,6000,8,108,0,0,0,Snapdragon 680 4G,199,"Android 13, MagicOS 7.1",IPS LCD,4G,90,yes,yes,Excellent,Excellent,No,No,No,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,"Rs 55,000",2023
+Honor,X7b,8,256,6000,8,108,0,0,0,Snapdragon 680 4G,199,"Android 13, MagicOS 7.1",IPS LCD,4G,90,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,"Rs 65,000",2023
+Google,Pixel 6a,6,128,4410,8,12.2,12,0,0,Google Tensor (5 nm),178,Android 12,OLED,5G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,"Rs 56,000",2022
+Xiaomi,Redmi 9A,4,64,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),196,"Android 10, MIUI 14",IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,"Rs 9,999",2020
+Xiaomi,Redmi 9A,4,64,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),196,"Android 10, MIUI 14",IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,"Rs 10,000",2020
+Xiaomi,Redmi 9A,4,64,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),196,"Android 10, MIUI 14",IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,"Rs 10,000",2020
+Xiaomi,Redmi 9A,4,64,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),196,"Android 10, MIUI 14",IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 10,000",2020
+Xiaomi,Redmi Note 12,8,128,5000,13,48,0,0,0,Snapdragon 685 (6 nm),183.5,"Android 12, MIUI 14",AMOLED,4G,120,yes,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 10,000",2023
+Xiaomi,Redmi 9A,4,64,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),196,"Android 10, MIUI 14",IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 10,000",2020
+Samsung,Galaxy S24 Plus,12,256,4900,12,50,0,0,0,Snapdragon 8 Gen 3 (4 nm),196,Android 14,Dynamic LTPO AMOLED,5G,120,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,"Rs 159,000",2024
+Xiaomi,Redmi 9A,4,64,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),196,"Android 10, MIUI 14",IPS LCD,4G,60,yes,no,Moderate,Excellent,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 10,000",2020
+Xiaomi,Redmi 9A,4,64,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),196,"Android 10, MIUI 14",IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 11,000",2020
+Vivo,Y93,6,128,4030,8,13,0,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,"Rs 12,500",2018
+Vivo,Y93,6,128,4030,8,13,0,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,"Rs 12,500",2018
+Vivo,Y1s,2,32,4000,5,13,0,0,0,Mediatek MT6765 Helio P35 (12 nm),161,"Android 10, Funtouch 10.5",IPS LCD,4G,60,yes,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,"Rs 7,500",2020
+Vivo,Y93,6,128,4030,8,13,0,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Moderate,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 7,500",2018
+Vivo,Y95,4,64,4030,20,13,0,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,yes,yes,Moderate,Moderate,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,"Rs 8,000",2018
+Vivo,Y93,6,128,4030,8,13,0,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,"Rs 8,000",2018
+Vivo,Y12s,3,32,5000,8,13,0,0,0,Snapdragon 439 (12 nm),191,"Android 10, Funtouch 11",IPS LCD,4G,60,yes,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,"Rs 8,000",2021
+Vivo,Y93,6,128,4030,8,13,0,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 8,000",2018
+Vivo,V20,8,256,4000,44,64,8,2,0,Snapdragon 720G (8 nm),171,"Android 11, Funtouch 11",AMOLED,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,"Rs 8,000",2020
+Vivo,Y1s,2,32,4000,5,13,0,0,0,Mediatek MT6765 Helio P35 (12 nm),161,"Android 10, Funtouch 10.5",IPS LCD,4G,60,yes,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,"Rs 8,250",2020
+Samsung,Galaxy Note 20,8,256,4300,10,12,64,12,0,Exynos 990,192,Android 10,Super AMOLED,5G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,"Rs 74,999",2020
+Samsung,Galaxy Note 20,8,256,4300,10,12,64,12,0,Exynos 990,192,Android 10,Super AMOLED,5G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,"Rs 60,000",2020
+Samsung,Galaxy Note 20 Ultra,12,256,4500,10,108,12,12,0,Exynos 990,208,Android 10,AMOLED,5G,120,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 90,990",2020
+Samsung,Galaxy F05,4,64,5000,8,50,0,0,0,Mediatek Helio G85 (12 nm),195,Android 14,PLS LCD,4G,60,yes,yes,Moderate,Moderate,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,"Rs 23,999",2024
+Samsung,Galaxy A06,4,64,5000,8,50,0,0,0,MediaTek Helio G85,189,Android 14,PLS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,"Rs 22,000",2024
+Samsung,Galaxy A05s,6,128,5000,13,50,0,0,0,Snapdragon 680 4G,194,Android 13,PLS LCD,4G,90,yes,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,"Rs 28,000",2023
+Samsung,Galaxy A10s,2,32,4000,8,13,0,0,0,MediaTek Helio P22,168,Android 9.0 (Pie),PLS TFT,4G,60,yes,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,"Rs 12,500",2019
+Samsung,Galaxy M01,2,32,4000,5,13,0,0,0,Snapdragon 439 (12 nm),168,Android 10,PLS TFT,4G,60,no,no,Excellent,Excellent,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,"Rs 15,500",2022
+Samsung,Galaxy A51,6,128,4000,32,48,12,5,5,Exynos 9611 (10 nm),172,Android 10,Super AMOLED,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 22,500",2019
+Samsung,Galaxy M01 Core,2,32,3000,5,8,0,0,0,Mediatek MT6739 (28 nm),150,Android 10,PLS LCD,4G,60,no,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,"Rs 19,000",2020
+Samsung,Galaxy A16,8,256,5000,13,50,0,0,0,Exynos 1330 (5 nm),200,Android 14,Super AMOLED,5G,90,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,"Rs 68,000",2024
+Samsung,Galaxy A11,2,32,4000,8,13,5,2,0,Snapdragon 450 (14 nm),177,Android 10,PLS TFT,4G,60,yes,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 15,000",2020
+Samsung,Galaxy J2,1,8,2000,2,5,0,0,0,Exynos 3475 Quad (28 nm),129,Android 5.1.1 (Lollipop),Super AMOLED,4G,60,no,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,"Rs 3,000",2015
+Samsung,Galaxy M01 Core,2,32,3000,5,8,0,0,0,Mediatek MT6739 (28 nm),150,Android 10,PLS LCD,4G,60,no,no,Excellent,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,"Rs 13,000",2020
+Samsung,Galaxy M02s,3,32,5000,5,13,0,0,0,Snapdragon 450 (14 nm),196,Android 10,PLS IPS,4G,60,yes,no,Excellent,Excellent,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,"Rs 19,999",2021
+Vivo,Y93,3,32,4030,8,13,2,0,0,Qualcomm Snapdragon 439,163,Android 8.1 (Oreo),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,"Rs 12,000",2018
+Xiaomi,Redmi Note 10s,6,64,5000,8,64,8,2,2,MediaTek Helio G95,179,Android 11,AMOLED,4G,60,no,yes,Moderate,Excellent,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Yes,"Rs 30,000",2021
+Xiaomi,Redmi Note 9,4,128,5020,8,48,8,2,2,MediaTek Helio G85,198,Android 10,IPS LCD,4G,60,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,"Rs 16,000",2020
+Samsung,Galaxy M20,3,32,4000,8,13,5,0,0,Exynos 7904,176,Android 9.0 (Pie),Super AMOLED,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,"Rs 13,000",2019
+Samsung,Galaxy A12,4,128,5000,8,48,5,2,2,Mediatek MT6765 Helio P35 (12 nm),205,Android 10,PLS TFT,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,"Rs 24,000",2020
+Samsung,Galaxy S21,8,256,4000,10,12,12,64,0,Snapdragon 888,169,Android 11,Dynamic AMOLED 2X,5G,120,yes,yes,Replaced,Excellent,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 74,990",2021
+Honor,8x,4,64,3750,16,16,2,0,0,Kirin 710,175,Android 9.0 (Pie),IPS LCD,4G,60,no,yes,Excellent,Excellent,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 17,000",2019
+Honor,8x,6,128,3750,16,20,2,0,0,Kirin 710,175,Android 9.0 Pie,IPS LCD,4G,60,no,yes,Moderate,Excellent,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No,Yes,"Rs 17,000",2019
+Oppo,A37,2,16,2630,5,8,0,0,0,Qualcomm Snapdragon 410,147,Android 5.1.1 (Lollipop),IPS LCD,4G,60,no,no,Replaced,Excellent,No,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,"Rs 7,500",2016
+Oppo,A37,2,16,2630,5,8,0,0,0,Qualcomm Snapdragon 410,147,Android 5.1 (Lollipop),IPS LCD,4G,60,no,no,Moderate,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,"Rs 7,500",2016
+Oppo,A57,4,64,5000,8,13,2,2,0,MediaTek Helio G35,187,Android 11,IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 7,500",2022
+Oppo,A37,2,16,2630,5,8,0,0,0,Quad-core 1.2 GHz Cortex-A53,147,Android 6.0 (Marshmallow),IPS LCD,4G,60,no,no,Moderate,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,"Rs 7,500",2016
+Oppo,A5s,3,32,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,Android 9.0 (Pie),IPS LCD,4G,60,no,yes,Major Damaged,Excellent,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 7,999",2019
+Oppo,A83,4,32,3180,8,13,2,0,0,MediaTek MT6763 Helio P23,168,Android 8.1 (Oreo),IPS LCD,4G,60,no,yes,Moderate,Excellent,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 8,000",2018
+Oppo,A15,3,32,4230,8,13,2,2,0,Mediatek MT6765 Helio P35 (12 nm),175,Android 10,IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,"Rs 8,000",2020
+Oppo,A33f,3,32,4230,8,13,2,2,0,Mediatek MT6765 Helio P35 (12 nm),186,Android 10,IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,"Rs 8,000",2020
+Oppo,A57,4,64,4000,5,13,2,2,0,MediaTek Helio G35,187,Android 11,IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,"Rs 8,000",2022
+Oppo,A57,4,64,4000,8,13,2,0,0,MediaTek Helio G35,187,Android 11,IPS LCD,4G,60,no,yes,Replaced,Moderate,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,"Rs 8,000",2022
+Oppo,A57,4,64,5000,8,13,2,2,0,MediaTek Helio G35,187,Android 11,IPS LCD,4G,60,no,yes,Minor Cosmetic Damage,Minor Cosmetic Damage,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 8,000",2022
+Oppo,F1s,4,64,3075,5,13,0,0,0,Mediatek MT6750,160,Android 6.0 (Marshmallow),IPS LCD,4G,60,no,yes,Excellent,Excellent,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 8,000",2016
+Oppo,A3s,3,32,3050,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,"Rs 8,000",2018
+Oppo,A57,4,64,4000,8,13,2,2,0,MediaTek Helio G35,187,Android 11,IPS LCD,4G,60,no,yes,Replaced,Moderate,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 8,000",2022
+Oppo,A3s,6,128,3050,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,no,yes,Replaced,Replaced,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 8,400",2018
+Oppo,A3s,6,128,3050,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G LTE,60,no,yes,Excellent,Replaced,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,"Rs 8,490",2018
+Oppo,A3s,6,128,3050,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,no,yes,Replaced,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,"Rs 8,490",2018
+Oppo,A3s,6,128,3050,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G LTE,60,no,yes,Excellent,Replaced,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,"Rs 8,490",2018
+Oppo,F5,4,32,3200,20,16,0,0,0,MediaTek MT6763T,153,Android 8.1 (Oreo),IPS LCD,4G,60,no,yes,Replaced,Excellent,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes,"Rs 10,000",2017
+Oppo,A57,4,64,5000,8,50,2,2,0,MediaTek Helio G35,189,Android 12,IPS LCD,4G,90,no,yes,Moderate,Moderate,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,"Rs 10,000",2022
+Oppo,F19 Pro,8,128,4310,16,48,8,2,2,MediaTek Helio P95,173,Android 11,Super AMOLED,4G,60,yes,yes,Moderate,Excellent,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 10,000",2021
+Oppo,A83,4,32,3180,8,13,2,0,0,MediaTek MT6763 Helio P23,168,Android 8.1 (Oreo),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,"Rs 10,000",2018
+Oppo,A3s,3,32,3050,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,"Rs 10,000",2018
+Oppo,F7,4,64,3400,20,16,2,0,0,MediaTek Helio P60,158,Android 8.1 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,"Rs 10,000",2018
+Oppo,A1k,2,32,4000,5,13,0,0,0,MediaTek Helio P22,168,Android 9.0 (Pie),IPS LCD,4G,60,no,no,Replaced,Replaced,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,"Rs 10,000",2019
+Oppo,A3s,3,16,3050,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,"Rs 10,000",2018
+Oppo,F1s,4,64,3075,5,13,0,0,0,Mediatek MT6750,160,Android 6.0 (Marshmallow),IPS LCD,4G,60,no,no,Moderate,Moderate,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 10,000",2016
+Oppo,A5s,2,32,4200,8,0,0,0,0,Mediatek MT6765 Helio P35 (12 nm),168,Android 9.0 (Pie),IPS LCD,4G,60,no,no,Replaced,Replaced,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,Yes,"Rs 10,000",2019
+Oppo,A17K,4,64,5000,5,50,2,0,0,MediaTek Helio G85,189,Android 12,IPS LCD,4G LTE,90,no,yes,Minor Cosmetic Damage,Moderate,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,"Rs 10,500",2022
+Oppo,A3s,6,128,3050,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,no,yes,Replaced,Moderate,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,"Rs 10,500",2018
+Oppo,A3s,6,128,3050,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 10,500",2018
+Oppo,A57,4,64,5000,8,13,2,2,0,MediaTek Helio G35,187,Android 11,IPS LCD,4G,60,no,yes,Replaced,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 10,500",2022
+Oppo,A12,3,32,4230,5,13,2,2,0,Mediatek MT6765 Helio P35 (12 nm),167,Android 9.0 (Pie),IPS LCD,4G,60,no,no,Moderate,Moderate,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,"Rs 10,500",2019
+Oppo,A3s,6,128,3050,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Excellent,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 10,900",2018
+Oppo,A12,3,32,4230,5,13,2,2,0,Mediatek MT6765 Helio P35 (12 nm),167,Android 9.0 (Pie),IPS LCD,4G,60,no,yes,Replaced,Excellent,No,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,"Rs 10,900",2019
+Oppo,A3s,6,128,3050,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Moderate,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 10,900",2018
+Oppo,A3s,6,128,3050,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,no,yes,Replaced,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,"Rs 12,900",2018
+Oppo,A31,8,256,4650,8,16,2,2,0,Mediatek MT6765 Helio P35 (12 nm),168,Android 9.0 (Pie),IPS LCD,4G,60,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,"Rs 14,999",2019
+Oppo,A5s,6,128,4230,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,Android 9.0 (Pie),IPS LCD,4G,60,no,yes,Replaced,Replaced,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,"Rs 14,999",2019
+Sony,Xperia XZ1,4,64,2700,8,19.5,0,0,0,Qualcomm Snapdragon 835 (10nm),169,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,"Rs 11,500",2017
+Sony,Xperia 5 II,8,128,4000,8,12.2,12.2,8,0,Qualcomm Snapdragon 865,163,Android 10,OLED,5G,120,no,yes,Moderate,Excellent,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 12,000",2020
+Sony,Xperia X Coact,3,32,2700,5,23,0,0,0,Qualcomm Snapdragon 810,145,Android 8,IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,"Rs 12,499",2016
+Sony,Xperia XZ3,4,64,3330,13,12.3,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Replaced,Excellent,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 12,500",2018
+Sony,Xperia XZ1,4,64,2700,8,19,0,0,0,Qualcomm Snapdragon 835 (10nm),169,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Replaced,Replaced,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,"Rs 12,500",2017
+Sony,Xperia XZ1,4,64,2900,8,19,0,0,0,Qualcomm Snapdragon 835 (10nm),169,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Moderate,Excellent,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,"Rs 12,900",2017
+Sony,Xperia XZ3,4,64,3330,13,12.3,12,0,0,Snapdragon 845,193,Android 9.0 (Pie),OLED,4G,90,no,yes,Major Damaged,Moderate,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 13,000",2018
+Sony,Xperia XZ2,4,64,3180,8,19,12,0,0,Qualcomm Snapdragon 845,198,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Moderate,Minor Cosmetic Damage,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,"Rs 13,000",2018
+Sony,Xperia 5 III,8,128,4500,8,12.5,12.5,64.5,0,Qualcomm Snapdragon 888,168,Android 11,OLED,5G,120,no,yes,Replaced,Moderate,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,"Rs 13,000",2021
+Sony,Xperia Z5 Premium,3,32,3430,2.2,23,0,0,0,Qualcomm Snapdragon 810,180,Android 5.1.1,IPS LCD,4G,60,no,yes,Replaced,Excellent,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,"Rs 13,500",2015
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,191,Android 9.0 (Pie),OLED,4G LTE,60,no,yes,Excellent,Excellent,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 13,500",2018
+Sony,Xperia XA,2,16,2300,2,13,0,0,0,MediaTek MT6735,145,Android 6.0 (Marshmallow),IPS LCD,4G,60,no,no,Moderate,Moderate,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 13,999",2016
+Sony,Xperia XZ,4,32,2900,5,23,0,0,0,Qualcomm Snapdragon 820,161,Android 6.0 (Marshmallow),IPS LCD,4G,60,no,yes,Replaced,Moderate,No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,"Rs 14,000",2016
+Sony,Xperia XZ3,4,64,3330,13,12.3,12,0,0,Qualcomm Snapdragon 845,193,Android 9 (Pie),OLED,4G,60,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 14,000",2018
+Sony,Xperia 10 III,6,128,4500,8,12,8,0,0,Snapdragon 690 5G (8 nm),161,Android 11,OLED,5G,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 14,350",2021
+Sony,Xperia 1,6,128,3330,8,12.2,12.2,12.2,0,Qualcomm Snapdragon 855,171,Android 9.0 (Pie),OLED,5G,90,no,yes,Moderate,Moderate,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,"Rs 14,999",2019
+Sony,Xperia XZ2,4,64,3180,8,19,12,0,0,Qualcomm Snapdragon 845,198,Android 8.0 (Oreo),IPS LCD,4G,120,no,yes,Major Damaged,Excellent,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 15,000",2018
+Sony,Xperia XZ,4,32,2900,5,23,0,0,0,Qualcomm Snapdragon 820,161,Android 6.0 (Marshmallow),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,"Rs 15,000",2016
+Sony,Xperia 5,6,128,3140,8,12.1,12.1,0,0,Qualcomm Snapdragon 855,164,Android 9.0 (Pie),OLED,4G,90,no,yes,Major Damaged,Excellent,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 15,000",2019
+Sony,Xperia XZ1,4,64,2900,8,19.5,0,0,0,Qualcomm Snapdragon 835 (10nm),169,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,"Rs 15,000",2017
+Sony,Xperia 5 III,8,128,4500,8,12,12,64,0,Qualcomm Snapdragon 888,168,Android 11,OLED,5G,120,no,yes,Moderate,Excellent,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 15,000",2021
+Sony,Xperia 5 III,8,128,4500,8,12,12,64,0,Qualcomm Snapdragon 888,168,Android 11,OLED,5G,120,no,yes,Moderate,Moderate,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,"Rs 15,000",2021
+Sony,Xperia 10 II,6,128,3700,8,12,8,0,0,Qualcomm Snapdragon 665,151,Android 10,OLED,4G,60,no,yes,Major Damaged,Excellent,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 15,000",2020
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Qualcomm Snapdragon 845,193,Android 9.0 (Pie),OLED,4G,60,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 15,000",2018
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon,193,Android 7,OLED,4G,60,no,yes,Major Damaged,Moderate,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 15,300",2018
+Sony,Xperia XZ3,6,64,3330,13,19,12,0,0,Snapdragon 865,193,Android 7,OLED,4G,60,no,yes,Excellent,Excellent,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 15,500",2018
+Sony,Xperia 10 II,6,128,3110,8,12,8,0,0,Qualcomm Snapdragon 665,162,Android 10,OLED,4G,60,no,yes,Excellent,Excellent,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 15,500",2020
+Sony,Xperia XZ Premium,4,64,2700,13,19,0,0,0,Qualcomm Snapdragon 835 (10nm),155,Android 8.0 Oreo,IPS LCD,4G,96,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,"Rs 17,000",2017
+Sony,Xperia 10 II,6,128,4000,8,12,8,0,0,Snapdragon 665,160,Android 10,OLED,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,"Rs 17,500",2020
+Sony,Xperia V,1,8,1750,0,13,0,0,0,Qualcomm Snapdragon S3,130,Android 4.0.4 ,TFT LCD,4G,60,no,no,Replaced,Excellent,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,"Rs 17,900",2012
+Sony,Xperia V,4,64,2000,0.3,8,0,0,0,Qualcomm Snapdragon S4,130,Android 4.1.2,TFT LCD,4G,60,no,no,Replaced,Excellent,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,Yes,"Rs 17,900",2012
+Sony,Xperia XZ3,4,64,3330,13,12.3,12,0,0,Snapdragon 855,193,Android 9.0 Pie,OLED,4G,60,no,yes,Moderate,Major Damaged,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 19,500",2018
+Sony,Xperia 10 II,4,64,3180,8,12,8,0,0,Snapdragon 665,162,Android 10,OLED,4G,60,no,yes,Replaced,Moderate,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,"Rs 19,500",2020
+Sony,Xperia XA2,4,32,3180,8,23,2,0,0,Snapdragon 630,148,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Excellent,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 19,990",2018
+Sony,Xperia 10 II,4,64,3600,8,12,8,0,0,Snapdragon 665,168,Android 13,OLED,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,"Rs 19,990",2020
+Sony,Xperia 5 II,8,128,4000,8,12.2,12.2,12.2,0,Qualcomm Snapdragon 865,163,Android 10,OLED,5G,120,no,yes,Replaced,Excellent,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 20,000",2020
+Sony,Xperia XZ1,4,64,2700,13,19,0,0,0,Qualcomm Snapdragon 835 (10nm),169,Android 9 (upgradable),IPS LCD,4G,60,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes,"Rs 20,000",2017
+Sony,Xperia 1 II,4,32,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,"Rs 20,000",2020
+Sony,Xperia XZ2,4,64,3180,5,19,12,0,0,Qualcomm Snapdragon 845,189,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,"Rs 20,000",2018
+Sony,Xperia 10 II,6,128,3700,8,12,8,0,0,Qualcomm Snapdragon 665,162,Android 10,OLED,4G,60,no,yes,Moderate,Replaced,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,"Rs 20,000",2020
+Sony,Xperia XZ Premium,4,64,3420,13,19,12,0,0,Qualcomm Snapdragon 835 (10nm),195,Android 8.0 Oreo,OLED,4G,96,no,yes,Excellent,Excellent,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,"Rs 22,990",2017
+Sony,Xperia XZ3,4,64,3330,13,12.3,12,0,0,Qualcomm Snapdragon 845,193,Android 9.0 Pie,OLED,4G,60,no,yes,Excellent,Moderate,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 28,000",2018
+Sony,Xperia 10 III,6,64,4500,8,12,8,0,0,Snapdragon 690 5G (8 nm),161,Android 11,OLED,5G,90,no,yes,Excellent,Excellent,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 28,000",2021
+Google,Pixel 6,8,128,4614,8,50,12,0,0,Google Tensor,202,Android 12,OLED,5G,90,no,yes,Excellent,Excellent,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 56,000",2021
+Google,Pixel 6a,6,128,4410,8,12.2,12,0,0,Google Tensor,178,Android 13,OLED,5G,60,no,yes,Replaced,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,"Rs 49,995",2022
+Vivo,Y93,6,128,4000,8,13,2,0,0,Likely Snapdragon 439,163,Android 8.1 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,"Rs 12,500",2018
+Vivo,Y93,8,256,4030,8,13,2,0,0,Qualcomm Snapdragon 439,163,Android 8.1 (Oreo),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,"Rs 7,300",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Qualcomm Snapdragon 439,163,Android 8.1 (Oreo),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,"Rs 7,500",2018
+Vivo,Y1s,2,32,4030,5,13,0,0,0,MT6761,161,Android 9.0 Pie,IPS LCD,4G,60,no,no,Moderate,Moderate,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,"Rs 7,500",2020
+Vivo,Y93,3,128,4030,8,13,2,0,0,Qualcomm Snapdragon 439,163,Android 8.1 (Oreo),IPS LCD,4G,60,no,yes,Major Damaged,Moderate,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 7,500",2018
+Vivo,Y19,3,64,5000,16,16,2,2,0,Qualcomm Snapdragon 675,190,Android 9.0 (Pie),IPS LCD,4G,60,no,yes,Replaced,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 7,500",2019
+Vivo,Y93,6,128,4030,8,13,2,0,0,Qualcomm Snapdragon 438,163,Android 8.1 (Oreo),IPS LCD,4G,60,yes,yes,Replaced,Excellent,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,Yes,"Rs 7,500",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Qualcomm Snapdragon 439,163,Android 8.1 (Oreo),IPS LCD,4G,60,yes,yes,Excellent,Replaced,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,"Rs 7,990",2018
+Vivo,Y95,6,128,4030,16,13,2,2,0,Qualcomm Snapdragon 439,190,Android 9.0 (Pie),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,"Rs 8,000",2019
+Vivo,Y95,3,128,"4,030",8,13,2,0,0,Not specified,173,Android 8.1 (Oreo),IPS LCD,4G,60,no,yes,Replaced,Replaced,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Yes,"Rs 8,000",2019
+Vivo,Y93,3,32,4030,8,13,2,0,0,Qualcomm Snapdragon 439,163,Android 8.1 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Excellent,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 8,000",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Qualcomm Snapdragon 439,163,Android 8.1 (Oreo),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,"Rs 8,000",2018
+Vivo,V20,8,128,4000,44,64,8,2,0,Qualcomm Snapdragon 720G,171,Android 11,AMOLED,4G,60,no,yes,Moderate,Major Damaged,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 8,000",2020
+Vivo,Y93,6,128,4030,8,13,2,0,0,Qualcomm Snapdragon 438,163,Android 8.1 (Oreo),IPS LCD,4G,60,yes,yes,Moderate,Minor Cosmetic Damage,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 8,000",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Qualcomm Snapdragon 439,163,Android 8.1 (Oreo),IPS LCD,4G,60,no,yes,Major Damaged,Excellent,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 8,200",2018
+Vivo,Y1s,3,32,4030,5,13,0,0,0,Mediatek MT6765 Helio P35 (12 nm),190,Android 9.0 (Pie),IPS LCD,4G,60,no,no,Excellent,Moderate,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,Yes,No,No,Yes,"Rs 8,250",2020
+Vivo,Y93,6,128,4030,8,13,2,0,0,Qualcomm Snapdragon 439,163,Android 8.1 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Moderate,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 8,400",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 9,490",2018
+Oppo,A3s,2,128,4000,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,"Rs 9,490",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,"Rs 9,500",2018
+Oppo,A3s,6,128,4000,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,"Rs 9,500",2018
+Oppo,A3s,2,32,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 9,500",2018
+Oppo,A57,4,64,3000,16,13,2,2,0,Mediatek Dimensity 810 (6 nm),187,"Android 12, ColorOS 12.1",IPS LCD,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,"Rs 9,500",2022
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,"Rs 9,500",2018
+Oppo,A3s,2,32,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 9,500",2018
+Oppo,A37,2,16,2630,5,8,0,0,0,Qualcomm Snapdragon 410,136,Android 5.1.1 (Lollipop),IPS LCD,4G,60,no,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,"Rs 9,500",2016
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,"Rs 9,500",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,"Rs 9,500",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 9,500",2018
+Oppo,A3s,6,128,4000,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,"Rs 9,500",2018
+Oppo,A3s,6,128,4000,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 9,500",2018
+Oppo,A3s,6,128,4000,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,"Rs 9,500",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,"Rs 9,500",2018
+Oppo,A3s,2,128,4000,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 9,500",2018
+Oppo,A57,4,64,5000,16,13,2,2,0,Mediatek Dimensity 810 (6 nm),187,"Android 12, ColorOS 12.1",IPS LCD,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 9,500",2022
+Oppo,A3s,6,128,4000,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,"Rs 9,500",2018
+Oppo,A3s,6,128,4200,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 9,500",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,"Rs 9,800",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,"Rs 9,800",2018
+Oppo,A3s,2,32,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,"Rs 9,900",2018
+Oppo,A3s,2,32,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 9,900",2018
+Oppo,A3s,2,256,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,"Rs 9,900",2018
+Oppo,A3s,2,256,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 9,900",2018
+Oppo,A57,4,64,5000,8,13,2,2,0,Mediatek Dimensity 810 (6 nm),187,"Android 12, ColorOS 12.1",IPS LCD,4G,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 9,900",2022
+Oppo,A3s,2,256,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,"Rs 9,900",2018
+Oppo,A3s,6,128,4000,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,"Rs 9,990",2018
+Oppo,A3s,6,128,4000,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,"Rs 9,990",2018
+Oppo,A3s,6,128,4000,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,"Rs 9,990",2018
+Oppo,A3s,6,128,4000,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,"Rs 9,990",2018
+Oppo,A3s,2,32,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,"Rs 9,990",2018
+Oppo,A3s,6,128,4000,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,"Rs 9,990",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,"Rs 9,990",2018
+Oppo,A3s,6,128,4000,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,"Rs 9,999",2018
+Oppo,A3s,6,128,4000,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,"Rs 9,999",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,"Rs 9,999",2018
+Oppo,A57,6,128,5000,8,13,2,2,0,Mediatek Dimensity 810 (6 nm),187,"Android 12, ColorOS 12.1",IPS LCD,4G,90,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 10,000",2022
+Oppo,A3s,2,256,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 10,000",2018
+Oppo,A3s,2,32,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,"Rs 10,000",2018
+Oppo,A1k,2,32,4000,5,8,0,0,0,MediaTek Helio P22,170,"Android 9.0 (Pie), ColorOS 6",IPS LCD,4G,60,no,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,"Rs 10,000",2019
+Oppo,A57,6,128,5000,8,13,2,2,0,Mediatek Dimensity 810 (6 nm),187,"Android 12, ColorOS 12.1",IPS LCD,4G,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,"Rs 10,000",2022
+Oppo,F5,3,32,3200,20,16,0,0,0,MediaTek MT6763 Helio P23,153,"Android 7.1.1 (Nougat), ColorOS 3.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 10,000",2017
+Oppo,A57,6,64,5000,8,13,2,2,0,Mediatek Dimensity 810 (6 nm),187,"Android 12, ColorOS 12.1",IPS LCD,4G,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,"Rs 10,000",2022
+Oppo,A57,6,128,5000,8,13,2,2,0,Mediatek Dimensity 810 (6 nm),187,"Android 12, ColorOS 12.1",IPS LCD,4G,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 10,000",2022
+Oppo,F19 Pro,8,128,4310,16,48,8,2,2,MediaTek Helio P95,173,"Android 11, ColorOS 11.1",Super AMOLED,4G,60,yes,yes,Major Damaged,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 10,000",2021
+Oppo,A83,4,32,3180,8,13,0,0,0,MediaTek MT6763 Helio P23,143,"Android 7.1 (Nougat), ColorOS 3.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 10,000",2018
+Oppo,F7,4,64,3400,25,16,0,0,0,MediaTek Helio P60,158,"Android 8.1 (Oreo), ColorOS 5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,"Rs 10,000",2018
+Oppo,A1k,2,32,4000,5,8,0,0,0,MediaTek Helio P22,170,"Android 9.0 (Pie), ColorOS 6",IPS LCD,4G,60,no,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,"Rs 10,000",2019
+Oppo,A3s,2,16,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 10,000",2018
+Oppo,F1s,3,32,3075,16,13,0,0,0,Mediatek MT6750,160,Android 6.0 (Marshmallow),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,"Rs 10,000",2016
+Oppo,A5s,2,32,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,"Rs 10,000",2019
+Oppo,A57,4,64,5000,8,13,2,2,0,Mediatek Dimensity 810 (6 nm),187,"Android 12, ColorOS 12.1",IPS LCD,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,"Rs 10,000",2022
+Oppo,A3s,2,32,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,"Rs 10,500",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,"Rs 10,500",2018
+Oppo,A1k,2,32,4000,5,8,0,0,0,MediaTek Helio P22,170,"Android 9.0 (Pie), ColorOS 6",IPS LCD,4G,60,no,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,"Rs 10,500",2019
+Oppo,A57,6,128,5000,8,13,2,2,0,Mediatek Dimensity 810 (6 nm),187,"Android 12, ColorOS 12.1",IPS LCD,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,No,"Rs 10,500",2022
+Oppo,A12,3,32,4230,5,13,2,2,0,Mediatek MT6765 Helio P35 (12 nm),167,"Android 9.0 (Pie), ColorOS 6.1",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 10,500",2020
+Oppo,A57,4,64,5000,8,13,2,2,0,Mediatek Dimensity 810 (6 nm),187,"Android 12, ColorOS 12.1",IPS LCD,4G,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 10,500",2022
+Oppo,A57,6,64,5000,8,13,2,2,0,Mediatek Dimensity 810 (6 nm),187,"Android 12, ColorOS 12.1",IPS LCD,4G,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 10,500",2022
+Oppo,A3s,2,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Replaced,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 10,900",2018
+Oppo,A12,3,32,4230,5,13,2,2,0,Mediatek MT6765 Helio P35 (12 nm),167,"Android 9.0 (Pie), ColorOS 6.1",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,"Rs 10,900",2020
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,"Rs 10,900",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,"Rs 10,995",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,"Rs 10,997",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,"Rs 10,999",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,"Rs 10,999",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,"Rs 10,999",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,"Rs 10,999",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,"Rs 10,999",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,"Rs 10,999",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,"Rs 10,999",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,"Rs 10,999",2018
+Oppo,A3s,6,256,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,"Rs 10,999",2018
+Oppo,A83,4,32,3180,8,13,0,0,0,MediaTek MT6763 Helio P23,143,"Android 7.1 (Nougat), ColorOS 3.2",IPS LCD,4G,60,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,"Rs 11,000",2018
+Oppo,A1k,2,32,4000,5,8,0,0,0,MediaTek Helio P22,170,"Android 9.0 (Pie), ColorOS 6",IPS LCD,4G,60,no,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,"Rs 11,000",2019
+Oppo,A57,6,128,5000,8,13,2,2,0,Mediatek Dimensity 810 (6 nm),187,"Android 12, ColorOS 12.1",IPS LCD,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,"Rs 11,000",2022
+Oppo,A3s,2,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,"Rs 11,000",2018
+Oppo,A5s,3,32,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 11,000",2019
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,"Rs 11,000",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,"Rs 11,000",2018
+Oppo,A57,6,128,5000,8,13,2,2,0,Mediatek Dimensity 810 (6 nm),187,"Android 12, ColorOS 12.1",IPS LCD,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 11,000",2022
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,"Rs 11,000",2018
+Oppo,A57,6,128,5000,8,13,2,2,0,Mediatek Dimensity 810 (6 nm),187,"Android 12, ColorOS 12.1",IPS LCD,4G,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 11,000",2022
+Oppo,A3s,2,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,"Rs 11,000",2018
+Oppo,A83,4,32,3180,8,13,0,0,0,MediaTek MT6763 Helio P23,143,"Android 7.1 (Nougat), ColorOS 3.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 11,000",2018
+Oppo,A83,6,128,3180,8,13,0,0,0,MediaTek MT6763 Helio P23,143,"Android 7.1 (Nougat), ColorOS 3.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,"Rs 11,200",2018
+Oppo,A31,4,64,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Major Damaged,Major Damaged,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 11,500",2020
+Oppo,A3s,2,32,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 11,500",2018
+Oppo,A5s,3,32,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 11,500",2019
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,"Rs 11,500",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,"Rs 11,500",2018
+Oppo,A12,3,32,4230,5,13,2,2,0,Mediatek MT6765 Helio P35 (12 nm),167,"Android 9.0 (Pie), ColorOS 6.1",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,"Rs 11,500",2020
+Oppo,A83,6,128,3180,8,13,0,0,0,MediaTek MT6763 Helio P23,143,"Android 7.1 (Nougat), ColorOS 3.2",IPS LCD,4G,60,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,No,"Rs 11,500",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 11,500",2018
+Oppo,A1k,2,32,4000,5,8,0,0,0,MediaTek Helio P22,170,"Android 9.0 (Pie), ColorOS 6",IPS LCD,4G,60,no,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,"Rs 11,500",2019
+Oppo,A1k,2,32,4000,5,8,0,0,0,MediaTek Helio P22,170,"Android 9.0 (Pie), ColorOS 6",IPS LCD,4G,60,no,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,"Rs 11,500",2019
+Oppo,A3s,2,256,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 11,900",2018
+Oppo,A3s,2,256,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,"Rs 11,900",2018
+Oppo,A3s,2,256,"4,230",8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 11,900",2018
+Oppo,A3s,2,32,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 11,900",2018
+Oppo,A3s,2,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,"Rs 11,990",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,"Rs 11,990",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 11,999",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 11,999",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 11,999",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 11,999",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,"Rs 11,999",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 11,999",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 11,999",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,"Rs 11,999",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,"Rs 11,999",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,"Rs 11,999",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,"Rs 11,999",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,"Rs 11,999",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Replaced,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,"Rs 11,999",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,"Rs 12,000",2018
+Oppo,A1k,2,32,4000,5,8,0,0,0,MediaTek Helio P22,170,"Android 9.0 (Pie), ColorOS 6",IPS LCD,4G,60,no,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,"Rs 12,000",2019
+Oppo,A5s,3,32,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,"Rs 12,000",2019
+Oppo,A1k,2,32,4000,5,8,0,0,0,MediaTek Helio P22,170,"Android 9.0 (Pie), ColorOS 6",IPS LCD,4G,60,no,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,"Rs 12,000",2019
+Oppo,A3s,2,32,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 12,000",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 12,000",2018
+Oppo,A57,6,128,5000,8,13,2,2,0,Mediatek Dimensity 810 (6 nm),187,"Android 12, ColorOS 12.1",IPS LCD,4G,90,no,yes,Moderate,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 12,000",2022
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 12,000",2018
+Oppo,A3s,2,32,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 12,000",2018
+Oppo,A5s,3,32,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 12,000",2019
+Oppo,A3s,2,32,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,"Rs 12,000",2018
+Oppo,A3s,2,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,"Rs 12,000",2018
+Oppo,A83,4,32,3180,8,13,0,0,0,MediaTek MT6763 Helio P23,143,"Android 7.1 (Nougat), ColorOS 3.2",IPS LCD,4G,60,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 12,000",2018
+Oppo,A57,6,128,5000,8,13,2,2,0,Mediatek Dimensity 810 (6 nm),187,"Android 12, ColorOS 12.1",IPS LCD,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,"Rs 12,000",2022
+Oppo,A83,4,32,3180,8,13,0,0,0,MediaTek MT6763 Helio P23,143,"Android 7.1 (Nougat), ColorOS 3.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 12,000",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Replaced,Replaced,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,"Rs 12,000",2018
+Oppo,A1k,2,32,4000,5,8,0,0,0,MediaTek Helio P22,170,"Android 9.0 (Pie), ColorOS 6",IPS LCD,4G,60,no,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 12,000",2019
+Oppo,A5s,2,32,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,"Rs 12,350",2019
+Oppo,A3s,2,32,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 12,500",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Replaced,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,"Rs 12,500",2018
+Oppo,A1k,2,32,4000,5,8,0,0,0,MediaTek Helio P22,170,"Android 9.0 (Pie), ColorOS 6",IPS LCD,4G,60,no,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,"Rs 12,500",2019
+Oppo,A3s,2,32,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,"Rs 12,500",2018
+Oppo,A5s,3,32,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 12,500",2019
+Oppo,A15,3,32,4230,5,13,2,2,0,Mediatek MT6765 Helio P35 (12 nm),175,"Android 10, ColorOS 7.2",IPS LCD,4G,60,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 12,500",2020
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 12,500",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 12,500",2018
+Oppo,A5s,2,32,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,No,"Rs 12,500",2019
+Oppo,A5s,6,128,4230,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,"Rs 12,500",2019
+Oppo,A15,2,32,4230,5,13,2,2,0,Mediatek MT6765 Helio P35 (12 nm),175,"Android 10, ColorOS 7.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,"Rs 12,500",2020
+Oppo,A57,6,64,5000,8,13,2,2,0,Mediatek Dimensity 810 (6 nm),187,"Android 12, ColorOS 12.1",IPS LCD,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,"Rs 12,500",2022
+Oppo,A3s,2,32,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 12,500",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 12,900",2018
+Oppo,A3s,2,32,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 12,900",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 12,900",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,"Rs 12,900",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 12,900",2018
+Oppo,A15,2,32,4230,5,13,2,2,0,Mediatek MT6765 Helio P35 (12 nm),175,"Android 10, ColorOS 7.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,"Rs 12,900",2020
+Oppo,A3s,2,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,No,"Rs 12,900",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,"Rs 12,900",2018
+Oppo,A31,6,128,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 12,900",2020
+Oppo,A57,6,128,5000,8,13,2,2,0,Mediatek Dimensity 810 (6 nm),187,"Android 12, ColorOS 12.1",IPS LCD,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,"Rs 12,900",2022
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,"Rs 12,990",2018
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,"Rs 12,990",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 12,990",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,"Rs 12,990",2020
+Oppo,A31,4,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 12,990",2020
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 12,996",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,"Rs 12,999",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 12,999",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,"Rs 12,999",2018
+Oppo,A3s,2,32,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 12,999",2018
+Oppo,A5s,3,32,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 13,000",2019
+Oppo,A3s,2,32,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,"Rs 13,000",2018
+Oppo,A3s,2,32,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 13,000",2018
+Oppo,A15,3,32,4230,5,13,2,2,0,Mediatek MT6765 Helio P35 (12 nm),175,"Android 10, ColorOS 7.2",IPS LCD,4G,60,no,yes,Moderate,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,"Rs 13,000",2020
+Oppo,A5s,3,32,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 13,000",2019
+Oppo,F1s,3,32,3075,16,13,0,0,0,Mediatek MT6750,160,Android 6.0 (Marshmallow),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,"Rs 13,000",2016
+Oppo,F1s,4,64,3075,16,13,0,0,0,Mediatek MT6750,160,Android 6.0 (Marshmallow),IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 13,000",2016
+Oppo,A83,4,32,3180,8,13,0,0,0,MediaTek MT6763 Helio P23,143,"Android 7.1 (Nougat), ColorOS 3.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 13,000",2018
+Oppo,A57,4,64,5000,8,13,2,2,0,Mediatek Dimensity 810 (6 nm),187,"Android 12, ColorOS 12.1",IPS LCD,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,"Rs 13,000",2022
+Oppo,A5s,3,32,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 13,000",2019
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,"Rs 13,490",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,"Rs 13,500",2020
+Oppo,F1s,3,32,3075,16,13,0,0,0,Mediatek MT6750,160,Android 6.0 (Marshmallow),IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 13,500",2016
+Oppo,F5 Youth,3,32,3200,16,13,0,0,0,MediaTek MT6763T,152,ColorOS 5.1,IPS LCD,4G,60,no,yes,Moderate,Moderate,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,"Rs 13,500",2017
+Oppo,A15,2,32,4230,5,13,2,2,0,Mediatek MT6765 Helio P35 (12 nm),175,"Android 10, ColorOS 7.2",IPS LCD,4G,60,no,yes,Replaced,Moderate,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,"Rs 13,500",2020
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 13,500",2018
+Oppo,A1k,2,32,4000,5,8,0,0,0,MediaTek Helio P22,170,"Android 9.0 (Pie), ColorOS 6",IPS LCD,4G,60,no,no,Excellent,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,"Rs 13,500",2019
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,"Rs 13,500",2020
+Oppo,A31,4,256,4200,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,No,"Rs 13,500",2020
+Oppo,A31,4,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,"Rs 13,500",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,"Rs 13,500",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 13,500",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,"Rs 13,500",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,"Rs 13,500",2020
+Oppo,A31,4,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 13,500",2020
+Oppo,A5s,2,32,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Moderate,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 13,500",2019
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,"Rs 13,500",2018
+Oppo,A3s,2,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 13,500",2018
+Oppo,A3s,2,32,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 13,500",2018
+Oppo,A15,2,32,4230,5,13,2,2,0,Mediatek MT6765 Helio P35 (12 nm),175,"Android 10, ColorOS 7.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 13,500",2020
+Oppo,A3s,2,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 13,500",2018
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,No,No,"Rs 13,500",2020
+Oppo,A31,8,256,4200,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 13,500",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 13,500",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,Android 9.0 (Pie),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,"Rs 13,500",2020
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,"Rs 13,800",2018
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,"Rs 13,900",2020
+Oppo,A31,4,256,5000,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 13,990",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,No,"Rs 13,990",2020
+Oppo,A31,4,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,"Rs 13,990",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,"Rs 13,990",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,"Rs 13,990",2020
+Oppo,A31,4,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 13,990",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 13,990",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 13,990",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 13,990",2020
+Oppo,A31,6,128,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 13,990",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,"Rs 13,990",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 13,999",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,"Rs 13,999",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,No,"Rs 13,999",2020
+Oppo,A31,4,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 13,999",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,"Rs 13,999",2020
+Oppo,A3s,4,64,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 14,000",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 14,000",2018
+Oppo,A5s,3,32,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 14,000",2019
+Oppo,A15,2,32,4230,5,13,2,2,0,Mediatek MT6765 Helio P35 (12 nm),175,"Android 10, ColorOS 7.2",IPS LCD,4G,60,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,No,"Rs 14,000",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 14,000",2020
+Oppo,A15,2,32,4230,5,13,2,2,0,Mediatek MT6765 Helio P35 (12 nm),175,"Android 10, ColorOS 7.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,No,"Rs 14,000",2020
+Oppo,A1k,2,32,4000,5,8,0,0,0,MediaTek Helio P22,170,"Android 9.0 (Pie), ColorOS 6",IPS LCD,4G,60,no,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,"Rs 14,000",2019
+Oppo,A31,4,64,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Replaced,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 14,000",2020
+Oppo,A12,3,32,4230,5,13,2,2,0,Mediatek MT6765 Helio P35 (12 nm),167,"Android 9.0 (Pie), ColorOS 6.1",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 14,000",2020
+Oppo,A12,3,32,4230,5,13,2,2,0,Mediatek MT6765 Helio P35 (12 nm),167,"Android 9.0 (Pie), ColorOS 6.1",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 14,500",2020
+Oppo,A3s,2,32,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 14,500",2018
+Oppo,A1k,2,32,4000,5,8,0,0,0,MediaTek Helio P22,170,"Android 9.0 (Pie), ColorOS 6",IPS LCD,4G,60,no,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,"Rs 14,500",2019
+Oppo,A3s,6,128,5000,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 14,500",2018
+Oppo,A5s,3,32,4230,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Moderate,Excellent,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 14,500",2019
+Oppo,A31,4,64,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Replaced,Replaced,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,"Rs 14,500",2020
+Oppo,A5s,3,32,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 14,500",2019
+Oppo,A5s,3,32,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,"Rs 14,900",2019
+Oppo,A5s,6,128,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 14,966",2019
+Oppo,A5s,3,32,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,"Rs 14,990",2019
+Oppo,A5s,6,128,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 14,996",2019
+Oppo,A5s,6,128,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 14,999",2019
+Oppo,A5s,6,128,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 14,999",2019
+Oppo,A5s,6,128,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,"Rs 14,999",2019
+Oppo,A5s,6,128,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,"Rs 14,999",2019
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,"Rs 14,999",2020
+Oppo,A5s,6,128,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,"Rs 14,999",2019
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,Yes,No,No,"Rs 14,999",2020
+Oppo,A31,6,128,4650,16,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,No,"Rs 14,999",2020
+Oppo,A5s,6,256,4500,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 14,999",2019
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,No,"Rs 14,999",2020
+Oppo,A5s,6,128,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 14,999",2019
+Oppo,A5s,6,128,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,"Rs 14,999",2019
+Oppo,A5s,6,128,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,"Rs 14,999",2019
+Oppo,A31,8,256,5000,16,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,Android 9.0 (Pie),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,No,"Rs 14,999",2020
+Oppo,A5s,6,128,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,"Rs 14,999",2019
+Oppo,A1k,2,32,4000,5,8,0,0,0,MediaTek Helio P22,170,"Android 9.0 (Pie), ColorOS 6",IPS LCD,4G,60,no,no,Replaced,Excellent,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,Yes,"Rs 15,000",2019
+Oppo,A12,3,32,4230,5,13,2,2,0,Mediatek MT6765 Helio P35 (12 nm),167,"Android 9.0 (Pie), ColorOS 6.1",IPS LCD,4G,60,no,yes,Replaced,Replaced,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 15,000",2020
+Oppo,A1k,2,32,4000,5,8,0,0,0,MediaTek Helio P22,170,"Android 9.0 (Pie), ColorOS 6",IPS LCD,4G,60,no,no,Moderate,Excellent,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,"Rs 15,000",2019
+Oppo,A15,3,32,4230,5,13,2,2,0,Mediatek MT6765 Helio P35 (12 nm),175,"Android 10, ColorOS 7.2",IPS LCD,4G,60,no,yes,Major Damaged,Major Damaged,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 15,000",2020
+Oppo,A15,2,32,4230,5,13,2,2,0,Mediatek MT6765 Helio P35 (12 nm),175,"Android 10, ColorOS 7.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,"Rs 15,000",2020
+Oppo,F1s,3,32,3075,16,13,0,0,0,Mediatek MT6750,160,Android 6.0 (Marshmallow),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 15,000",2016
+Oppo,A5s,6,128,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 15,000",2019
+Oppo,A5s,3,32,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 15,000",2019
+Oppo,A5s,3,32,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Minor Cosmetic Damage,Minor Cosmetic Damage,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,"Rs 15,000",2019
+Oppo,A5s,3,32,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,"Rs 15,000",2019
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,"Rs 15,000",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,No,"Rs 15,000",2020
+Oppo,A31,8,256,5000,8,16,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,"Rs 15,000",2020
+Oppo,A1k,2,32,4000,5,8,0,0,0,MediaTek Helio P22,170,"Android 9.0 (Pie), ColorOS 6",IPS LCD,4G,60,no,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,"Rs 15,000",2019
+Oppo,A3s,6,128,4230,8,13,2,0,0,Qualcomm Snapdragon 450,168,"Android 8.1 (Oreo), ColorOS 5.1",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,"Rs 15,000",2018
+Oppo,A1k,2,32,4000,5,8,0,0,0,MediaTek Helio P22,170,"Android 9.0 (Pie), ColorOS 6",IPS LCD,4G,60,no,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,"Rs 15,000",2019
+Oppo,A57,6,128,5000,8,13,2,2,0,Mediatek Dimensity 810 (6 nm),187,"Android 12, ColorOS 12.1",IPS LCD,4G,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,"Rs 15,000",2022
+Oppo,A15,3,32,4230,5,13,2,2,0,Mediatek MT6765 Helio P35 (12 nm),175,"Android 10, ColorOS 7.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 15,000",2020
+Oppo,A15,2,32,4230,5,13,2,2,0,Mediatek MT6765 Helio P35 (12 nm),175,"Android 10, ColorOS 7.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 15,000",2020
+Oppo,A12,3,32,4230,5,13,2,2,0,Mediatek MT6765 Helio P35 (12 nm),167,"Android 9.0 (Pie), ColorOS 6.1",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 15,000",2020
+Oppo,A3s,6,128,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,No,"Rs 15,000",2018
+Oppo,F19 Pro,8,128,4310,16,48,8,2,2,MediaTek Helio P95,173,"Android 11, ColorOS 11.1",Super AMOLED,4G,60,yes,yes,Moderate,Moderate,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,"Rs 15,000",2021
+Oppo,A3s,2,32,4230,8,13,2,0,0,Snapdragon 450 (14 nm),168,Android 8.1 (Oreo),IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 15,000",2018
+Oppo,A31,4,64,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 15,000",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,"Rs 15,000",2020
+Oppo,A15,4,64,4230,5,13,2,2,0,Mediatek MT6765 Helio P35 (12 nm),175,"Android 10, ColorOS 7.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 15,000",2020
+Oppo,A3s,6,128,4230,8,13,2,0,0,Qualcomm Snapdragon 450,168,"Android 8.1 (Oreo), ColorOS 5.1",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,"Rs 15,500",2018
+Oppo,A3s,6,128,4230,8,13,2,0,0,Qualcomm Snapdragon 450,168,"Android 8.1 (Oreo), ColorOS 5.1",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,"Rs 15,500",2018
+Oppo,A5s,3,32,4200,8,13,2,0,0,Mediatek MT6765 Helio P35 (12 nm),168,"Android 8.1 (Oreo), ColorOS 5.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 15,500",2019
+Oppo,A1k,2,32,4000,5,8,0,0,0,MediaTek Helio P22,170,"Android 9.0 (Pie), ColorOS 6",IPS LCD,4G,60,no,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,"Rs 15,500",2019
+Oppo,A1k,2,32,4000,5,8,0,0,0,MediaTek Helio P22,170,"Android 9.0 (Pie), ColorOS 6",IPS LCD,4G,60,no,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,"Rs 15,800",2019
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,"Rs 15,900",2020
+Oppo,A12,3,32,4230,5,13,2,2,0,Mediatek MT6765 Helio P35 (12 nm),167,"Android 9.0 (Pie), ColorOS 6.1",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,"Rs 15,900",2020
+Oppo,A1k,2,32,4000,5,8,0,0,0,MediaTek Helio P22,170,"Android 9.0 (Pie), ColorOS 6",IPS LCD,4G,60,no,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,"Rs 15,900",2019
+Oppo,A15,2,32,4230,5,13,2,2,0,Mediatek MT6765 Helio P35 (12 nm),175,"Android 10, ColorOS 7.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,"Rs 15,900",2020
+Oppo,A31,4,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Replaced,Replaced,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,"Rs 15,900",2020
+Oppo,A15,2,32,4230,5,13,2,2,0,Mediatek MT6765 Helio P35 (12 nm),175,"Android 10, ColorOS 7.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,"Rs 15,900",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 15,999",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,"Rs 15,999",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 15,999",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,"Rs 15,999",2020
+Oppo,A31,4,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 15,999",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,"Rs 15,999",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,"Rs 15,999",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 15,999",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,"Rs 15,999",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,"Rs 15,999",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,"Rs 15,999",2020
+Oppo,A31,8,256,5000,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 15,999",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,"Rs 15,999",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,"Rs 15,999",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,"Rs 15,999",2020
+Oppo,A31,8,256,4230,8,12,2,2,0,Mediatek MT6765 Helio P35 (12 nm),180,"Android 9.0 (Pie), ColorOS 6.2",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,"Rs 15,999",2020
+Sony,Xperia XZ1,4,64,2700,13,19.5,0,0,0,Snapdragon 835 (10 nm),155,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 11,500",2017
+Sony,Xperia 5 II,8,128,4000,8,12,12,12,0,Snapdragon 865 5G (7 nm+),163,Android 10,OLED,5G,120,no,yes,Moderate,Moderate,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 12,000",2020
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Excellent,Replaced,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Yes,No,No,Yes,"Rs 12,500",2018
+Sony,Xperia XZ1,4,64,2700,13,19.5,0,0,0,Snapdragon 835 (10 nm),155,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 12,500",2017
+Sony,Xperia XZ1,4,64,2700,13,19.5,0,0,0,Snapdragon 835 (10 nm),155,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,"Rs 12,900",2017
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Moderate,Major Damaged,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 13,000",2018
+Sony,Xperia XZ2,4,64,3180,5,19,0,0,0,Snapdragon 845,198,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,"Rs 13,000",2018
+Sony,Xperia 5 III,8,128,4500,8,12,12,12,0,Snapdragon 888 5G (5 nm),168,Android 11,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 13,000",2021
+Sony,Xperia Z5 Premium,3,32,3430,5.1,23,0,0,0,Snapdragon 810,180,Android 5.1.1,IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 13,500",2015
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,"Rs 13,500",2018
+Sony,Xperia XA,2,16,2300,8,13,0,0,0,Mediatek MT6755 Helio P10 (28 nm),138,Android 6.0 (Marshmallow),IPS LCD,4G,60,no,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 13,999",2016
+Sony,Xperia XZ,4,32,2900,13,23,0,0,0,Snapdragon 820,161,Android 6.0 (Marshmallow),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,"Rs 14,000",2016
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,"Rs 14,000",2018
+Sony,Xperia 10 III,6,128,4500,8,12,8,8,0,Snapdragon 690 5G (8 nm),169,Android 11,OLED,5G,90,no,yes,Major Damaged,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,"Rs 14,350",2021
+Sony,Xperia 1,6,64,3330,8,12,12,12,0,Snapdragon 855,178,Android 9.0 (Pie),OLED,4G,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 14,999",2019
+Sony,Xperia XZ2,4,64,3180,5,19,0,0,0,Snapdragon 845,198,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Major Damaged,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,"Rs 15,000",2018
+Sony,Xperia XZ,4,32,2900,13,23,0,0,0,Snapdragon 820,161,Android 6.0 (Marshmallow),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 15,000",2016
+Sony,Xperia 5,6,128,3140,8,12,12,12,0,Snapdragon 855,164,Android 9.0 (Pie),OLED,4G,90,no,yes,Major Damaged,Major Damaged,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 15,000",2019
+Sony,Xperia XZ1,4,64,2700,13,19.5,0,0,0,Snapdragon 835 (10 nm),155,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 15,000",2017
+Sony,Xperia 5 III,8,128,4500,8,12,12,12,0,Snapdragon 888 5G (5 nm),168,Android 11,OLED,5G,120,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 15,000",2021
+Sony,Xperia 10 II,4,64,3600,8,12,8,8,0,Snapdragon 665,151,Android 10,OLED,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 15,000",2020
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,"Rs 15,000",2018
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,"Rs 15,300",2018
+Sony,Xperia XZ3,6,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 15,500",2018
+Sony,Xperia 10 II,4,64,3600,8,12,8,8,0,Snapdragon 665,151,Android 10,OLED,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,"Rs 15,500",2020
+Sony,Xperia 10 II,4,64,3600,8,12,8,8,0,Snapdragon 665,151,Android 10,OLED,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,"Rs 15,900",2020
+Sony,Xperia 10 II,4,64,3600,8,12,8,8,0,Snapdragon 665,151,Android 10,OLED,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,"Rs 15,900",2020
+Sony,Xperia 10 II,4,64,3600,8,12,8,8,0,Snapdragon 665,151,Android 10,OLED,4G,60,no,yes,Excellent,Excellent,No,No,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,No,"Rs 15,990",2020
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Major Damaged,Replaced,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 16,000",2018
+Sony,Xperia 5,6,128,3140,8,12,12,12,0,Snapdragon 855,164,Android 9.0 (Pie),OLED,4G,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 16,000",2019
+Sony,Xperia XZ1,4,64,2700,13,19.5,0,0,0,Snapdragon 835 (10 nm),155,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 16,000",2017
+Sony,Xperia 5 III,8,128,4500,8,12,12,12,0,Snapdragon 888 5G (5 nm),168,Android 11,OLED,5G,120,no,yes,Excellent,Moderate,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,"Rs 16,000",2021
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,"Rs 16,200",2018
+Sony,Xperia 5 III,8,128,4500,8,12,12,12,0,Snapdragon 888 5G (5 nm),168,Android 11,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,"Rs 16,500",2021
+Sony,Xperia 10 II,4,64,3600,8,12,8,8,0,Snapdragon 665,151,Android 10,OLED,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 17,500",2020
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,"Rs 17,500",2018
+Sony,Xperia V,1,8,1750,0,13,0,0,0,Snapdragon S4 Plus,120,Android 4.0.4,TFT LCD,4G,60,no,no,Excellent,Excellent,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,"Rs 17,900",2012
+Sony,Xperia V,1,64,1750,0,13,0,0,0,Snapdragon S4 Plus,120,Android 4.0.4,TFT LCD,4G,60,no,no,Moderate,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,"Rs 17,900",2012
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,"Rs 18,000",2018
+Sony,Xperia XZ,4,32,2900,13,23,0,0,0,Snapdragon 820,161,Android 6.0 (Marshmallow),IPS LCD,4G,60,no,yes,Major Damaged,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,"Rs 18,000",2016
+Sony,Xperia XA2,4,32,3300,8,23,0,0,0,Snapdragon 630,171,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 18,990",2018
+Sony,Xperia XA2,4,32,3300,8,23,0,0,0,Snapdragon 630,171,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,"Rs 18,990",2018
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 19,000",2018
+Sony,Xperia 1,6,64,3330,8,12,12,12,0,Snapdragon 855,178,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 19,500",2019
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Major Damaged,Major Damaged,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,"Rs 19,500",2018
+Sony,Xperia 10 II,4,64,3600,8,12,8,8,0,Snapdragon 665,151,Android 10,OLED,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 19,500",2020
+Sony,Xperia XA2,4,32,3300,8,23,0,0,0,Snapdragon 630,171,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,"Rs 19,990",2018
+Sony,Xperia XZ2,4,64,3180,5,19,0,0,0,Snapdragon 845,198,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 19,990",2018
+Sony,Xperia XA2,4,32,3300,8,23,0,0,0,Snapdragon 630,171,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,"Rs 19,990",2018
+Sony,Xperia XA2,4,32,3300,8,23,0,0,0,Snapdragon 630,171,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 19,990",2018
+Sony,Xperia XA2,4,32,3300,8,23,0,0,0,Snapdragon 630,171,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,"Rs 19,990",2018
+Sony,Xperia 10 II,4,64,3600,8,12,8,8,0,Snapdragon 665,151,Android 10,OLED,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 19,990",2020
+Sony,Xperia XA2,4,32,3300,8,23,0,0,0,Snapdragon 630,171,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 19,990",2018
+Sony,Xperia XZ2,4,64,3180,5,19,0,0,0,Snapdragon 845,198,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 19,990",2018
+Sony,Xperia XZ2,4,64,3180,5,19,0,0,0,Snapdragon 845,198,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Replaced,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,"Rs 19,999",2018
+Sony,Xperia 10 III,6,128,4500,8,12,8,8,0,Snapdragon 690 5G (8 nm),169,Android 11,OLED,5G,90,no,yes,Moderate,Replaced,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,"Rs 20,000",2021
+Sony,Xperia XZ1,4,64,2700,13,19.5,0,0,0,Snapdragon 835 (10 nm),155,Android 9 (upgradable from Android 8.0),IPS LCD,4G,60,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,"Rs 20,000",2017
+Sony,Xperia 5 II,8,128,4000,8,12,12,12,0,Snapdragon 865 5G (7 nm+),163,Android 10,OLED,5G,120,no,yes,Replaced,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,"Rs 20,000",2020
+Sony,Xperia 1 II,8,32,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 20,000",2020
+Sony,Xperia XZ2,4,64,3180,5,19,0,0,0,Snapdragon 845,198,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,"Rs 20,000",2018
+Sony,Xperia 10 II,4,64,3600,8,12,8,8,0,Snapdragon 665,151,Android 10,OLED,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 20,000",2020
+Sony,Xperia 10 II,4,64,3600,8,12,8,8,0,Snapdragon 665,151,Android 10,OLED,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 21,000",2020
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 21,000",2018
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 21,000",2018
+Sony,Xperia XZ2,4,64,3180,5,19,0,0,0,Snapdragon 845,198,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 21,500",2018
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,"Rs 21,500",2018
+Sony,Xperia XZ2,4,64,3180,5,19,0,0,0,Snapdragon 845,198,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 21,990",2018
+Sony,Xperia XZ2,4,64,3180,5,19,0,0,0,Snapdragon 845,198,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Excellent,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,"Rs 21,990",2018
+Sony,Xperia XZ2,4,64,3180,5,19,0,0,0,Snapdragon 845,198,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Moderate,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 21,990",2018
+Sony,Xperia XZ2,4,64,3180,5,19,0,0,0,Snapdragon 845,198,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Replaced,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 21,990",2018
+Sony,Xperia 5,6,128,3140,8,12,12,12,0,Snapdragon 855,164,Android 9.0 (Pie),OLED,4G,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 22,000",2019
+Sony,Xperia XZ1,4,64,2700,13,19.5,0,0,0,Snapdragon 835 (10 nm),155,Android 9 (upgradable from Android 8.0),IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,"Rs 22,000",2017
+Sony,Xperia XZ2,4,64,3180,5,19,0,0,0,Snapdragon 845,198,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 22,000",2018
+Sony,Xperia 1,6,64,3330,8,12,12,12,0,Snapdragon 855,178,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 22,000",2019
+Sony,Xperia 5,6,64,3140,8,12,12,12,0,Snapdragon 855,164,Android 9.0 (Pie),OLED,4G,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,"Rs 22,000",2019
+Sony,Xperia 1,6,64,3330,8,12,12,12,0,Snapdragon 855,178,Android 9.0 (Pie),OLED,4G,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,"Rs 22,000",2019
+Sony,Xperia XZ2,4,64,3180,5,19,0,0,0,Snapdragon 845,198,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,"Rs 22,000",2018
+Sony,Xperia 10 III,6,128,4500,8,12,8,8,0,Snapdragon 690 5G (8 nm),169,Android 11,OLED,5G,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 22,000",2021
+Sony,Xperia 1,4,64,3330,8,12,12,12,0,Snapdragon 855,178,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,"Rs 22,000",2019
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Moderate,Excellent,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 22,500",2018
+Sony,Xperia 10 III,6,128,4500,8,12,8,8,0,Snapdragon 690 5G (8 nm),169,Android 11,OLED,5G,90,no,yes,Major Damaged,Major Damaged,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 23,000",2021
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 23,000",2018
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,"Rs 23,000",2018
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 23,500",2018
+Sony,Xperia XZ2,4,64,3180,5,19,0,0,0,Snapdragon 845,198,Android 10 (upgradeable from Android 8.0),IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,"Rs 24,000",2018
+Sony,Xperia 1,6,64,3330,8,12,12,12,0,Snapdragon 855,178,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Moderate,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,"Rs 24,000",2019
+Sony,Xperia 1,6,64,2700,8,12,12,12,0,Snapdragon 855,178,Android 10 (upgradable),OLED,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,"Rs 24,000",2019
+Sony,Xperia XZ2,4,64,3180,5,19,0,0,0,Snapdragon 845,198,Android 10 upgradable,IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 24,000",2018
+Sony,Xperia 5,6,64,3140,8,12,12,12,0,Snapdragon 855,164,Android 9.0 (Pie),OLED,4G,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 24,000",2019
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 24,500",2018
+Sony,Xperia 10 II,4,64,3600,8,12,8,8,0,Snapdragon 665,151,Android 10,OLED,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 24,990",2020
+Sony,Xperia 1,6,64,3330,8,12,12,12,0,Snapdragon 855,178,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 24,990",2019
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 24,990",2018
+Sony,Xperia 10 II,4,64,3600,8,12,8,8,0,Snapdragon 665,151,Android 10,OLED,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,"Rs 24,990",2020
+Sony,Xperia 1,6,64,3330,8,12,12,12,0,Snapdragon 855,178,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 24,990",2019
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,"Rs 24,990",2018
+Sony,Xperia 1,6,64,3330,8,12,12,12,0,Snapdragon 855,178,Android 9.0 (Pie),OLED,4G,90,no,yes,Replaced,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 24,990",2019
+Sony,Xperia XZ2,4,64,3180,5,19,0,0,0,Snapdragon 845,198,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 24,990",2018
+Sony,Xperia 1,6,64,3330,8,12,12,12,0,Snapdragon 855,178,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Replaced,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 24,990",2019
+Sony,Xperia 10 II,4,64,3600,8,12,8,8,0,Snapdragon 665,151,Android 10,OLED,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,"Rs 24,990",2020
+Sony,Xperia 1,6,64,3330,8,12,12,12,0,Snapdragon 855,178,Android 9.0 (Pie),OLED,4G,90,no,no,Excellent,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 24,990",2019
+Sony,Xperia 1,6,64,3330,8,12,12,12,0,Snapdragon 855,178,Android 9.0 (Pie),OLED,4G,90,no,no,Excellent,Replaced,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 24,990",2019
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,"Rs 24,990",2018
+Sony,Xperia 1,6,64,3330,8,12,12,12,0,Snapdragon 855,178,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Excellent,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,"Rs 24,990",2019
+Sony,Xperia XZ2,4,64,3180,5,19,0,0,0,Snapdragon 845,198,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Excellent,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,"Rs 24,990",2018
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Excellent,Excellent,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,"Rs 25,000",2018
+Sony,Xperia 1 II,8,256,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,"Rs 25,000",2020
+Sony,Xperia 5,6,64,3140,8,12,12,12,0,Snapdragon 855,164,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 25,000",2019
+Sony,Xperia XZ2,4,64,3180,5,19,0,0,0,Snapdragon 845,198,Android 10 (upgradable),IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,"Rs 25,000",2018
+Sony,Xperia 1,6,64,3330,8,12,12,12,0,Snapdragon 855,178,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,"Rs 25,000",2019
+Sony,Xperia 1,6,64,3330,8,12,12,12,0,Snapdragon 855,178,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 25,000",2019
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,"Rs 25,000",2018
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 25,000",2018
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,"Rs 25,500",2018
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 25,750",2018
+Sony,Xperia 5,6,64,3140,8,12,12,12,0,Snapdragon 855,164,Android 9.0 (Pie),OLED,4G,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 25,900",2019
+Sony,Xperia 5,6,64,3140,8,12,12,12,0,Snapdragon 855,164,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,"Rs 26,000",2019
+Sony,Xperia 5,6,64,3140,8,12,12,12,0,Snapdragon 855,164,Android 9.0 (Pie),OLED,4G,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 26,000",2019
+Sony,Xperia XZ2,4,64,3180,5,19,0,0,0,Snapdragon 845,198,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 26,000",2018
+Sony,Xperia XZ2,4,64,3180,5,19,0,0,0,Snapdragon 845,198,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,"Rs 26,000",2018
+Sony,Xperia XZ2,4,64,3180,5,19,0,0,0,Snapdragon 845,198,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 26,000",2018
+Sony,Xperia 10 III,6,128,4500,8,12,8,8,0,Snapdragon 690 5G (8 nm),169,Android 11,OLED,5G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 26,000",2021
+Sony,Xperia XZ2,4,64,3180,5,19,0,0,0,Snapdragon 845,198,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 26,000",2018
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,"Rs 26,000",2018
+Sony,Xperia XZ2,4,64,3180,5,19,0,0,0,Snapdragon 845,198,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,"Rs 26,499",2018
+Sony,Xperia XZ2,4,64,3180,5,19,0,0,0,Snapdragon 845,198,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,"Rs 26,499",2018
+Sony,Xperia 5,6,64,3140,8,12,12,12,0,Snapdragon 855,164,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,"Rs 26,500",2019
+Sony,Xperia 1,6,64,3330,8,12,12,12,0,Snapdragon 855,178,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,"Rs 26,500",2019
+Sony,Xperia XZ2,4,64,3180,5,19,0,0,0,Snapdragon 845,198,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,"Rs 26,500",2018
+Sony,Xperia XZ2,4,64,3180,5,19,0,0,0,Snapdragon 845,198,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Excellent,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,"Rs 26,500",2018
+Sony,Xperia XZ2,4,64,3180,5,19,0,0,0,Snapdragon 845,198,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Major Damaged,Moderate,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,"Rs 26,500",2018
+Sony,Xperia 5,6,64,3140,8,12,12,12,0,Snapdragon 855,164,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 26,990",2019
+Sony,Xperia 1,6,64,3330,8,12,12,12,0,Snapdragon 855,178,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 26,990",2019
+Sony,Xperia 5,6,64,3140,8,12,12,12,0,Snapdragon 855,164,Android 9.0 (Pie),OLED,4G,90,no,yes,Moderate,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 26,990",2019
+Sony,Xperia 5,6,64,3140,8,12,12,12,0,Snapdragon 855,164,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Excellent,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,"Rs 26,990",2019
+Sony,Xperia 5,6,64,3140,8,12,12,12,0,Snapdragon 855,164,Android 9.0 (Pie),OLED,4G,90,no,yes,Moderate,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,"Rs 26,990",2019
+Sony,Xperia XZ2,4,64,3180,13,19,0,0,0,Snapdragon 845,198,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Excellent,Excellent,No,No,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,"Rs 26,999",2018
+Sony,Xperia XZ2,4,64,3180,5,19,0,0,0,Snapdragon 845,198,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 27,000",2018
+Sony,Xperia XZ2,4,64,3180,5,19,0,0,0,Snapdragon 845,198,Android 8.0 (Oreo),IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 27,000",2018
+Sony,Xperia 10 II,3,64,3600,8,12,8,8,0,Snapdragon 665,151,Android 10,OLED,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 27,000",2020
+Sony,Xperia 10 II,6,128,3600,8,12,8,8,0,Snapdragon 665,151,Android 12 (upgradable),OLED,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,"Rs 28,000",2020
+Sony,Xperia 10 II,6,128,3600,8,12,8,8,0,Snapdragon 665,151,Android 12 (upgradable),OLED,4G,60,no,yes,Excellent,Replaced,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,"Rs 28,000",2020
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 10 (upgradable from Android 9.0 Pie),OLED,4G LTE,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,"Rs 28,000",2018
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 28,000",2018
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Replaced,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 28,000",2018
+Sony,Xperia 10 III,6,64,4500,8,12,8,8,0,Snapdragon 690 5G (8 nm),169,Android 11,OLED,5G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,"Rs 28,000",2021
+Sony,Xperia 10 II,6,128,3600,8,12,8,8,0,Snapdragon 665,151,Android 12 (upgradable from Android 10),OLED,4G,60,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 28,000",2020
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 10 (upgradable from Android 9.0 Pie),OLED,4G LTE,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,"Rs 28,000",2018
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 28,000",2018
+Sony,Xperia 10 III,6,128,4500,8,12,8,8,0,Snapdragon 690 5G (8 nm),169,Android 11,OLED,5G,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,"Rs 28,000",2021
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Excellent,Excellent,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,"Rs 29,000",2018
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,"Rs 29,500",2018
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,"Rs 29,500",2018
+Sony,Xperia 1,6,64,3330,8,12,12,12,0,Snapdragon 855,178,Android 14,OLED,4G,90,no,yes,Moderate,Moderate,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,"Rs 29,900",2019
+Sony,Xperia 1,6,64,3330,8,12,12,12,0,Snapdragon 888,178,Android 12,OLED,4G,90,no,yes,Moderate,Moderate,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,"Rs 29,900",2019
+Sony,Xperia 1,6,64,3330,8,12,12,12,0,Snapdragon 855,178,Android 14,OLED,4G,90,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,"Rs 29,900",2019
+Sony,Xperia 1,6,64,3330,8,12,12,12,0,Snapdragon 855,178,Android 12,OLED,4G,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,"Rs 29,900",2019
+Sony,Xperia 1,6,64,3330,8,12,12,12,0,Snapdragon 855,178,Android 12,OLED,4G,90,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,"Rs 29,900",2019
+Sony,Xperia 1,6,64,3330,8,12,12,12,0,Snapdragon 855,178,Android 12,OLED,4G,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,"Rs 29,999",2019
+Sony,Xperia 1,6,64,3330,8,12,12,12,0,Snapdragon 855,178,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 30,000",2019
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,"Rs 30,000",2018
+Sony,Xperia XZ3,4,64,3300,13,19,12,0,0,Snapdragon 845,193,Android 10 (upgradable from Android 9.0 Pie).,OLED,4G LTE,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,"Rs 30,000",2018
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,"Rs 30,000",2018
+Sony,Xperia 10 III,6,128,4500,8,12,8,8,0,Snapdragon 690 5G (8 nm),169,Android 11,OLED,5G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 30,000",2021
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 30,000",2018
+Sony,Xperia 10 III,6,128,4500,8,12,8,8,0,Snapdragon 690 5G (8 nm),169,Android 11,OLED,5G,90,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,"Rs 30,000",2021
+Sony,Xperia 1,6,64,3330,8,12,12,12,0,Snapdragon 855,178,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,"Rs 32,000",2019
+Sony,Xperia 5,6,128,3140,8,12,12,12,0,Snapdragon 855,164,Android 9.0 (Pie),OLED,4G,90,no,yes,Major Damaged,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,"Rs 32,000",2019
+Sony,Xperia 10 III,6,64,4500,8,12,8,8,0,Snapdragon 690 5G (8 nm),169,Android 11,OLED,5G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 33,000",2021
+Sony,Xperia 1 II,8,256,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 33,000",2020
+Sony,Xperia 5,6,64,3140,8,12,12,12,0,Snapdragon 855,164,Android 11 (upgradable),OLED,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 34,000",2019
+Sony,Xperia 1,6,64,3330,8,12,12,12,0,Snapdragon 855,178,Android 11 (upgradable),OLED,4G,90,no,yes,Excellent,Moderate,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,"Rs 34,000",2019
+Sony,Xperia 10 III,6,128,4500,8,12,8,8,0,Snapdragon 690 5G (8 nm),169,Android 13,OLED,5G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 34,000",2021
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 34,990",2020
+Sony,Xperia XZ3,4,64,3330,13,19,12,0,0,Snapdragon 845,193,Android 9.0 Pie,OLED,4G LTE,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,"Rs 35,000",2018
+Sony,Xperia 5 III,8,128,4500,8,12,12,12,0,Snapdragon 888 5G (5 nm),168,Android 11,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,"Rs 35,000",2021
+Sony,Xperia 10 III,6,128,4500,8,12,8,8,0,Snapdragon 690 5G (8 nm),169,Android 13 (upgradable),OLED,5G,90,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 35,000",2021
+Sony,Xperia 5,6,64,3140,8,12,12,12,0,Snapdragon 855,164,Android 11 (upgradable),OLED,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,"Rs 35,000",2019
+Sony,Xperia 1,6,64,3330,8,12,12,12,0,Snapdragon 855,178,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,"Rs 35,000",2019
+Sony,Xperia 5,6,64,3140,8,12,12,12,0,Snapdragon 855,164,Android 11 (upgradable),OLED,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,"Rs 36,000",2019
+Sony,Xperia 1 II,8,256,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 36,000",2020
+Sony,Xperia 1,6,64,3330,8,12,12,12,0,Snapdragon 855,178,Android 11 (upgradable from Android 9.0),OLED,4G,90,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,"Rs 36,000",2019
+Sony,Xperia 1 II,8,256,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 36,000",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 37,990",2020
+Sony,Xperia 1 II,8,256,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,"Rs 38,000",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Moderate,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 38,990",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 38,990",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 38,990",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Moderate,Replaced,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 38,990",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,"Rs 38,990",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Moderate,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 39,990",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 39,990",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,"Rs 39,990",2020
+Sony,Xperia 5 III,8,128,4500,8,12,12,12,0,Snapdragon 888 5G (5 nm),168,Android 11,OLED,5G,120,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 39,990",2021
+Sony,Xperia 5 III,8,128,4500,8,12,12,12,0,Snapdragon 888 5G (5 nm),168,Android 11,OLED,5G,120,no,no,Excellent,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 39,990",2021
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 39,990",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,"Rs 39,990",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 39,990",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 39,990",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,"Rs 39,995",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,"Rs 39,995",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 39,995",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,"Rs 39,995",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,"Rs 39,996",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,"Rs 39,997",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,"Rs 39,998",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 39,998",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,"Rs 39,998",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,"Rs 39,998",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,"Rs 39,999",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 39,999",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,"Rs 39,999",2020
+Sony,Xperia 5 II,8,128,4000,8,12,12,12,0,Snapdragon 865 5G (7 nm+),163,Android 12 (upgradable),OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,"Rs 40,000",2020
+Sony,Xperia 10 III,6,128,4500,8,12,8,8,0,Snapdragon 690 5G (8 nm),169,Android 13,OLED,5G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,"Rs 40,000",2021
+Sony,Xperia 1 II,8,256,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 40,000",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,"Rs 40,900",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,"Rs 42,990",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,"Rs 42,990",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Moderate,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,"Rs 42,992",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,No,No,Yes,"Rs 42,995",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,"Rs 42,995",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,"Rs 42,996",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 42,998",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 42,998",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,"Rs 42,999",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,"Rs 42,999",2020
+Sony,Xperia 1 II,8,256,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 43,000",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,"Rs 43,000",2020
+Sony,Xperia 1,6,128,3330,8,12,12,12,0,Snapdragon 855,178,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 44,990",2019
+Sony,Xperia 1 II,8,256,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 45,000",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 888,181,Android 12,OLED,5G,120,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,"Rs 45,000",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 888,181,Android 13,OLED,5G,120,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,"Rs 45,000",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 13,OLED,5G,120,no,yes,Excellent,Moderate,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,"Rs 45,000",2020
+Sony,Xperia 1 II,8,128,4500,8,12,12,12,0,Qualcomm Snapdragon 888,181,Android 13,OLED,5G,120,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,"Rs 45,000",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 888,181,Android 14,OLED,5G,120,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,"Rs 45,000",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 888,181,Android 12,OLED,5G,120,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,"Rs 45,500",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 45,500",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 888,181,Android 12,OLED,5G,120,no,yes,Excellent,Moderate,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,"Rs 45,500",2020
+Sony,Xperia 5 III,8,128,4500,8,12,12,12,0,Snapdragon 888 5G (5 nm),168,Android 12,OLED,5G,120,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,"Rs 47,000",2021
+Sony,Xperia 1 II,8,256,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,"Rs 47,000",2020
+Sony,Xperia 5 III,8,128,4500,8,12,12,12,0,Snapdragon 888 5G (5 nm),168,Android 14,OLED,5G,120,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,"Rs 47,000",2021
+Sony,Xperia 5 III,8,128,4500,8,12,12,12,0,Snapdragon 888 5G (5 nm),168,Android 14,OLED,5G,120,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,"Rs 47,000",2021
+Sony,Xperia 5 III,8,128,4500,8,12,12,12,0,Snapdragon 888 5G (5 nm),168,Android 12,OLED,5G,120,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,"Rs 47,000",2021
+Sony,Xperia 5 III,8,128,4500,8,12,12,12,0,Snapdragon 888 5G (5 nm),168,Android 13,OLED,5G,120,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,"Rs 47,500",2021
+Sony,Xperia 5 III,8,128,4500,8,12,12,12,0,Snapdragon 888 5G (5 nm),168,Android 14,OLED,5G,120,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,"Rs 47,500",2021
+Sony,Xperia 5 III,8,128,4500,8,12,12,12,0,Snapdragon 888 5G (5 nm),168,Android 11,OLED,5G,120,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,"Rs 47,500",2021
+Sony,Xperia 5 III,8,128,4500,8,12,12,12,0,Snapdragon 888 5G (5 nm),168,Android 14,OLED,5G,120,no,yes,Minor Cosmetic Damage,Minor Cosmetic Damage,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,"Rs 47,500",2021
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 12,OLED,5G,120,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,"Rs 48,000",2020
+Sony,Xperia 5 III,8,128,4500,8,12,12,12,0,Snapdragon 888 5G (5 nm),168,Android 11 (upgradable to Android 13),OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,No,"Rs 48,000",2021
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 12 (upgradable),OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,"Rs 48,000",2020
+Sony,Xperia 5 III,8,128,4500,8,12,12,12,0,Snapdragon 888 5G (5 nm),168,Android 11,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,"Rs 48,500",2021
+Sony,Xperia 1 II,8,256,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,"Rs 48,500",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 48,990",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,"Rs 48,990",2020
+Sony,Xperia 1,8,128,3330,8,12,12,12,0,Snapdragon 865,178,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 48,999",2019
+Sony,Xperia 1 II,8,256,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,"Rs 48,999",2020
+Sony,Xperia 5 III,8,128,4500,8,12,12,12,0,Snapdragon 888 5G (5 nm),168,Android 13,OLED,5G,120,no,yes,Excellent,Excellent,No,No,No,No,No,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,"Rs 49,000",2021
+Sony,Xperia 5 III,8,128,4500,8,12,12,12,0,Snapdragon 888 5G (5 nm),168,Android 13,OLED,5G,120,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,"Rs 49,000",2021
+Sony,Xperia 5 III,8,128,4500,8,12,12,12,0,Snapdragon 888 5G (5 nm),168,Android 13,OLED,5G,120,no,yes,Excellent,Moderate,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,"Rs 49,000",2021
+Sony,Xperia 5 III,8,128,4500,8,12,12,12,0,Snapdragon 888 5G (5 nm),168,Android 13,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,No,"Rs 49,000",2021
+Sony,Xperia 5 III,8,128,4500,8,12,12,12,0,Snapdragon 888 5G (5 nm),168,Android 13,OLED,5G,120,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,"Rs 49,500",2021
+Sony,Xperia 5 III,8,128,4500,8,12,12,12,0,Snapdragon 888 5G (5 nm),168,Android 13,OLED,5G,120,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,"Rs 49,900",2021
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 49,990",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 49,990",2020
+Sony,Xperia 5 III,8,128,4500,8,12,12,12,0,Snapdragon 888 5G (5 nm),168,Android 13,OLED,5G,120,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,"Rs 49,990",2021
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,"Rs 49,990",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 49,999",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 12,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,"Rs 50,000",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 12 (upgradable),OLED,5G,120,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,"Rs 50,000",2020
+Sony,Xperia 5 III,8,128,4500,8,12,12,12,0,Snapdragon 888 5G (5 nm),168,Android 13 (upgradable),OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,"Rs 50,000",2021
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 12,OLED,5G,120,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No,"Rs 50,000",2020
+Sony,Xperia 5 III,8,128,4500,8,12,12,12,0,Snapdragon 888 5G (5 nm),168,Android 13 (upgradable),OLED,5G,120,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,"Rs 50,000",2021
+Sony,Xperia 5 III,8,128,4500,8,12,12,12,0,Snapdragon 888 5G (5 nm),168,Android 13 (upgradable),OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,"Rs 50,000",2021
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 50,000",2020
+Sony,Xperia 5,8,128,3140,8,12,12,12,0,Snapdragon 855,164,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 54,990",2019
+Sony,Xperia 5,8,128,3140,8,12,12,12,0,Snapdragon 855,164,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Moderate,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 54,990",2019
+Sony,Xperia 5,8,128,3140,8,12,12,12,0,Snapdragon 855,164,Android 9.0 (Pie),OLED,4G,90,no,yes,Replaced,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 54,990",2019
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,"Rs 55,000",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Replaced,Replaced,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 55,000",2020
+Sony,Xperia 5,8,128,3140,8,12,12,12,0,Snapdragon 855,164,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 55,990",2019
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 57,000",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,"Rs 57,500",2020
+Sony,Xperia 1 II,8,128,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,"Rs 58,000",2020
+Sony,Xperia 5,8,128,5000,8,12,12,12,0,Snapdragon 855,164,Android 14,OLED,4G,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,"Rs 59,000",2019
+Sony,Xperia 1 II,8,256,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,"Rs 59,000",2020
+Sony,Xperia 5,8,128,3140,8,12,12,12,0,Snapdragon 8 gen 1,164,Android 14,OLED,4G,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,"Rs 59,000",2019
+Sony,Xperia 5,8,128,3140,8,12,12,12,0,Snapdragon 855,164,Android 9.0 (Pie),OLED,4G,90,no,yes,Replaced,Replaced,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 59,990",2019
+Sony,Xperia 1 II,12,256,4000,8,12,12,12,0,Qualcomm Snapdragon 865,181,Android 10,OLED,5G,120,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 59,990",2020
+Sony,Xperia 5,8,128,3140,8,12,12,12,0,Snapdragon 855,164,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,"Rs 59,990",2019
+Sony,Xperia 5,6,128,3140,8,12,12,12,0,Snapdragon 855,164,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 59,990",2019
+Sony,Xperia 5,8,128,3140,8,12,12,12,0,Snapdragon 855,164,Android 9.0 (Pie),OLED,4G,90,no,yes,Replaced,Excellent,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,"Rs 59,990",2019
+Sony,Xperia 5,8,128,3140,8,12,12,12,0,Snapdragon 855,164,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 59,990",2019
+Sony,Xperia 5,6,128,5000,12,12,12,12,0,Snapdragon 855,164,"Android 9.0 (Pie), upgradable to Android 14.",OLED,4G,90,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,"Rs 80,000",2019
+Sony,Xperia 5,6,128,3140,12,12,12,12,0,Snapdragon 855,164,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Replaced,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 85,000",2019
+Sony,Xperia 1,12,256,3330,8,12,12,12,0,Snapdragon 855,178,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 104,990",2019
+Sony,Xperia 1,12,256,3330,8,12,12,12,0,Snapdragon 855,178,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,"Rs 104,990",2019
+Sony,Xperia 5,8,128,3140,8,12,12,12,0,Snapdragon 855,164,Android 9.0 (Pie),OLED,4G,90,no,yes,Excellent,Replaced,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,"Rs 150,000",2019
+Sony,Xperia 1,12,256,3330,12,48,12,12,0,Snapdragon 855,178,Android 15 upgradable,OLED,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,"Rs 180,000",2019
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,"Rs 12,500",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 12,500",2018
+Vivo,Y93,8,256,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 7,300",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 7,500",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 7,500",2018
+Vivo,Y1s,2,32,4000,5,13,0,0,0,Mediatek MT6765 Helio P35 (12 nm),161,"Android 10, Funtouch 10.5",IPS LCD,4G,60,yes,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 7,500",2020
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Moderate,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,"Rs 7,500",2018
+Vivo,Y19,3,64,5500,5,13,0,0,0,Mediatek Dimensity 6300 (6 nm),199,"Android 15, Funtouch 15",IPS LCD,5G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,"Rs 7,500",2025
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,"Rs 7,500",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Major Damaged,Major Damaged,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,"Rs 7,900",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 7,900",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Replaced,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,"Rs 7,990",2018
+Vivo,Y95,6,128,4030,20,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,yes,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 8,000",2018
+Vivo,Y95,4,64,4030,20,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,yes,yes,Excellent,Moderate,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,"Rs 8,000",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,"Rs 8,000",2018
+Vivo,Y12s,3,32,5000,8,13,2,0,0,Snapdragon 439 (12 nm),191,"Android 10, Funtouch 11",IPS LCD,4G,60,yes,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 8,000",2021
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 8,000",2018
+Vivo,V20,8,256,4000,44,64,8,2,0,Snapdragon 720G (8 nm),171,"Android 11, Funtouch 11",AMOLED,4G,60,yes,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,"Rs 8,000",2020
+Vivo,Y93,6,128,4030,8,13,2,0,0.3,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,"Rs 8,000",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Major Damaged,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,"Rs 8,200",2018
+Vivo,Y1s,2,32,4000,5,13,0,0,0,Mediatek MT6765 Helio P35 (12 nm),161,"Android 10, Funtouch 10.5",IPS LCD,4G,60,yes,yes,Moderate,Moderate,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,"Rs 8,250",2020
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,"Rs 8,400",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,"Rs 8,400",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,"Rs 8,400",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,"Rs 8,400",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,"Rs 8,400",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 8,490",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,"Rs 8,490",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 8,490",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Replaced,Moderate,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,"Rs 8,490",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 8,490",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Major Damaged,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 8,500",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 8,500",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,"Rs 8,500",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,"Rs 8,500",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Moderate,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 8,500",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 8,500",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Major Damaged,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,"Rs 8,500",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,"Rs 8,500",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Moderate,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes,"Rs 8,500",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Major Damaged,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 8,500",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,No,"Rs 8,500",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Major Damaged,Replaced,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,"Rs 8,500",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Major Damaged,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,"Rs 8,500",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,"Rs 8,500",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,"Rs 8,500",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,"Rs 8,500",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 8,500",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,"Rs 8,500",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,"Rs 8,500",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,"Rs 8,600",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,"Rs 8,600",2018
+Vivo,Y1s,2,32,4000,5,13,0,0,0,Mediatek MT6765 Helio P35 (12 nm),161,"Android 10, Funtouch 10.5",IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,"Rs 8,750",2020
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,"Rs 8,800",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,"Rs 8,850",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 8,850",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 8,900",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,"Rs 8,900",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,"Rs 8,900",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,No,No,"Rs 8,900",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Replaced,Moderate,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,No,No,"Rs 8,990",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,"Rs 8,990",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,"Rs 8,990",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Replaced,Moderate,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,"Rs 8,999",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 9,000",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,"Rs 9,000",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,"Rs 9,000",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,"Rs 9,000",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,"Rs 9,000",2018
+Vivo,Y93,6,128,4030,8,13,2,0,0,Snapdragon 439 (12 nm),163.5,"Android 8.1 (Oreo), Funtouch 4.5",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,"Rs 9,000",2018
+Vivo,Y1s,2,32,4000,5,13,0,0,0,Mediatek MT6765 Helio P35 (12 nm),161,"Android 10, Funtouch 10.5",IPS LCD,4G,60,yes,yes,Excellent,Moderate,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,No,"Rs 9,000",2020
+Xiaomi,redmi 9c,2,32,5000,5,13,2,2,0,MediaTek Helio G35,196,"Android 10, MIUI 12",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,,Yes,Yes,Yes,"Rs 17,000",2020
+Xiaomi,13c,6,128,5000,8,50,2,0,0,Mediatek Helio G85 (12 nm),192,"Android 13, MIUI 14",IPS LCD,4G,90,yes,yes,Replaced,Excellent,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,,Yes,Yes,Yes,"Rs 17,000",2023
+Xiaomi,redmi 10a,6,128,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),194,"Android 11, MIUI 12.5",IPS LCD,4G,60,yes,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,,No,No,No,"Rs 17,000",2022
+Xiaomi,redmi a2,4,64,5000,5,8,0,0,0,Mediatek Helio G36 (12 nm),192,Android 12 (Go edition),IPS LCD,4G,60,no,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,,No,No,No,"Rs 17,499",2023
+Xiaomi,redmi note 10s,4,64,5000,13,64,8,2,2,MediaTek Helio G95,178.8,Android 13 (MIUI),AMOLED,4G LTE,60,yes,yes,Moderate,Replaced,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,,Yes,Yes,Yes,"Rs 17,500",2021
+Xiaomi,redmi a2,4,64,5000,5,8,0,0,0,Mediatek Helio G36 (12 nm),192,Android 12 (Go edition),IPS LCD,4G,60,no,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,,No,No,No,"Rs 17,500",2023
+Xiaomi,redmi note 10s,8,128,5000,13,64,8,2,2,MediaTek Helio G95,178.8,Android 13 (MIUI),AMOLED,4G LTE,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,,Yes,Yes,No,"Rs 17,500",2021
+Xiaomi,12c,4,64,5000,5,50,0,0,0,Mediatek Helio G85 (12 nm),192,Android 13,IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,,Yes,Yes,Yes,"Rs 17,500",2022
+Xiaomi,redmi 9a,4,64,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),196,"Android 10, MIUI 14",IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,,No,No,No,"Rs 17,500",2020
+Xiaomi,redmi a2,4,64,5000,5,8,0,0,0,Mediatek Helio G36 (12 nm),192,Android 12 (Go edition),IPS LCD,4G,60,no,no,Moderate,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,,Yes,No,No,"Rs 17,500",2023
+Xiaomi,redmi 10a,6,128,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),194,"Android 11, MIUI 12.5",IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,,Yes,Yes,Yes,"Rs 17,500",2022
+Xiaomi,redmi 9a,4,64,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),196,"Android 10, MIUI 14",IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,,No,No,No,"Rs 17,500",2020
+Xiaomi,redmi 8,4,64,5000,8,12,2,0,0,Snapdragon 439 (12 nm),188,Android 9.0 (Pie),IPS LCD,4G,60,yes,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,,No,No,No,"Rs 17,500",2019
+Xiaomi,redmi 10a,6,128,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),194,"Android 11, MIUI 12.5",IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,,Yes,Yes,No,"Rs 17,500",2022
+Xiaomi,12c,6,128,5000,5,50,0,0,0,Mediatek Helio G85 (12 nm),192,"Android 12, MIUI 13",IPS LCD,4G,60,yes,yes,Moderate,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,,No,No,No,"Rs 17,500",2022
+Xiaomi,redmi 10a,1,64,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),194,"Android 11, MIUI 12.5",IPS LCD,4G,60,yes,yes,Moderate,Replaced,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,,No,No,No,"Rs 17,500",2022
+Xiaomi,redmi a1+,2,32,5000,5,8,0,0,0,Mediatek Helio A22 (12 nm),192,"Android 12, MIUI 12",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,,No,No,No,"Rs 17,500",2022
+Xiaomi,redmi note 8 pro,4,128,4500,20,64,8,2,2,MediaTek Helio G90T (12 nm),199,"Android 9, MIUI 10",IPS LCD,4G LTE,60,yes,yes,Major Damaged,Moderate,No,No,No,No,No,No,No,No,No,No,No,No,,Yes,Yes,No,"Rs 17,500",2019
+Xiaomi,12c,4,128,5000,5,50,0,0,0,Mediatek Helio G85 (12 nm),192,Android 14,IPS LCD,4G,60,yes,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,,No,No,No,"Rs 17,500",2022
+Xiaomi,redmi 9a,4,64,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),196,"Android 10, MIUI 14",IPS LCD,4G,60,yes,no,Replaced,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,,No,No,No,"Rs 17,999",2020
+Xiaomi,redmi 10a,4,64,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),194,"Android 11, MIUI 12.5",IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,,Yes,No,No,"Rs 17,999",2022
+Xiaomi,redmi 8,3,32,5000,8,12,2,0,0,Snapdragon 439 (12 nm),188,Android 9.0 (Pie),IPS LCD,4G,60,yes,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,,No,No,No,"Rs 18,000",2019
+Xiaomi,redmi note 10 pro,6,128,5020,20,48,8,2,2,Qualcomm Snapdragon 732G,192,Android 11,IPS LCD,4G,90,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,yes,No,Yes,No,No,No,,Yes,Yes,Yes,"Rs 18,000",2021
+Xiaomi,redmi note 9,4,128,5020,13,48,8,2,2,Mediatek Helio G85 (12 nm),199,"Android 10, MIUI 13",IPS LCD,4G,60,yes,yes,Moderate,Replaced,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,,No,No,No,"Rs 18,000",2020
+Xiaomi,redmi 9,3,32,5020,8,13,8,5,2,Mediatek Helio G80 (12 nm),198,"Android 10, MIUI 11",IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,,Yes,Yes,Yes,"Rs 18,000",2020
+Xiaomi,redmi a1+,2,32,5000,5,8,0,0,0,Mediatek Helio A22 (12 nm),192,"Android 12, MIUI 12",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,,Yes,Yes,Yes,"Rs 18,000",2022
+Xiaomi,redmi 9a,4,64,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),196,"Android 10, MIUI 14",IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,,No,No,No,"Rs 18,000",2020
+Xiaomi,redmi 8,4,64,5000,8,12,2,0,0,Snapdragon 439 (12 nm),188,Android 9.0 (Pie),IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,,Yes,Yes,Yes,"Rs 18,000",2019
+Xiaomi,redmi note 10s,8,128,5000,13,64,8,2,2,MediaTek Helio G95,178.8,Android 13 (MIUI),AMOLED,4G LTE,60,yes,yes,Moderate,Excellent,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,,Yes,Yes,Yes,"Rs 18,000",2021
+Xiaomi,mi a3,4,64,5000,8,48,8,2,2,Helio P65,188,Android 10,IPS LCD,4G,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,,Yes,Yes,No,"Rs 18,000",2019
+Xiaomi,redmi 8,4,64,5000,8,12,2,0,0,Snapdragon 439 (12 nm),188,Android 9.0 (Pie),IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,,No,No,No,"Rs 18,000",2019
+Xiaomi,redmi 9a,4,64,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),196,"Android 10, MIUI 14",IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,,No,No,No,"Rs 18,000",2020
+Xiaomi,redmi 9c,4,64,5000,5,13,2,2,0,MediaTek Helio G35,196,"Android 10, MIUI 12",IPS LCD,4G,60,no,yes,Moderate,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,,No,No,No,"Rs 18,000",2020
+Xiaomi,redmi 9c,2,32,5000,5,13,2,2,0,MediaTek Helio G35,196,"Android 10, MIUI 12",IPS LCD,4G,60,no,yes,Excellent,Replaced,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,,Yes,Yes,No,"Rs 18,000",2020
+Xiaomi,redmi 9a,6,128,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),196,"Android 10, MIUI 14",IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,,No,No,No,"Rs 18,000",2020
+Xiaomi,redmi 10a,4,64,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),194,"Android 11, MIUI 12.5",IPS LCD,4G,60,yes,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,,No,No,No,"Rs 18,000",2022
+Xiaomi,12c,2,32,5000,5,50,0,0,0,Mediatek Helio G85 (12 nm),192,"Android 12, MIUI 13",IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,,No,No,Yes,"Rs 18,000",2022
+Xiaomi,poco x3 pro,8,128,5160,20,48,8,2,2,Qualcomm Snapdragon 860 (7 nm),215,"Android 11, MIUI 12",IPS LCD,4G LTE,120,yes,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,,No,No,No,"Rs 18,000",2021
+Xiaomi,12c,2,32,5000,5,50,0,0,0,Mediatek Helio G85 (12 nm),192,"Android 12, MIUI 13",IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,,Yes,Yes,No,"Rs 18,000",2022
+Xiaomi,redmi note 10 pro,6,256,5020,20,48,8,2,2,Qualcomm Snapdragon 732G,192,MIUI 12,IPS LCD,4G,90,no,yes,Major Damaged,Moderate,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,,Yes,Yes,No,"Rs 18,000",2021
+Xiaomi,redmi 10a,4,64,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),194,"Android 11, MIUI 12.5",IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,,Yes,Yes,Yes,"Rs 18,000",2022
+Xiaomi,13c,4,128,5000,8,50,2,0,0,Mediatek Helio G85 (12 nm),192,"Android 13, MIUI 14",IPS LCD,4G,90,yes,yes,Replaced,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,,No,No,Yes,"Rs 18,000",2023
+Xiaomi,13c,8,256,5000,8,50,2,0,0,Mediatek Helio G85 (12 nm),192,"Android 13, MIUI 14",IPS LCD,4G,90,yes,yes,Moderate,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,,No,No,No,"Rs 18,000",2023
+Xiaomi,redmi 9a,4,64,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),196,"Android 10, MIUI 14",IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,,No,No,No,"Rs 18,000",2020
+Xiaomi,redmi note 9,4,128,5020,13,48,8,2,2,Mediatek Helio G85 (12 nm),199,"Android 10, MIUI 13",IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,,Yes,Yes,No,"Rs 18,500",2020
+Xiaomi,redmi note 9,4,128,5020,13,48,8,2,2,Mediatek Helio G85 (12 nm),199,"Android 10, MIUI 13",IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,,Yes,Yes,Yes,"Rs 18,500",2020
+Xiaomi,redmi 9,3,64,5020,8,13,8,5,2,Mediatek Helio G80 (12 nm),198,"Android 10, MIUI 11",IPS LCD,4G,60,yes,yes,Moderate,Replaced,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,,No,No,No,"Rs 18,500",2020
+Xiaomi,redmi 9a,4,64,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),196,"Android 10, MIUI 14",IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,,No,No,No,"Rs 18,500",2020
+Xiaomi,12c,6,128,5000,5,50,0,0,0,Mediatek Helio G85 (12 nm),192,"Android 12, MIUI 13",IPS LCD,4G,60,yes,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,,No,No,No,"Rs 18,500",2022
+Xiaomi,12c,2,32,5000,5,50,0,0,0,Mediatek Helio G85 (12 nm),192,"Android 12, MIUI 13",IPS LCD,4G,60,yes,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,,No,No,No,"Rs 18,500",2022
+Xiaomi,poco x3,6,64,6000,20,64,13,2,2,Snapdragon 732G (8 nm),225,"Android 10, MIUI 12",IPS LCD,4G,120,yes,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,,No,No,No,"Rs 18,500",2020
+Xiaomi,redmi note 9s,4,64,5020,16,48,8,5,2,Qualcomm Snapdragon 720G (8nm),209,"Android 10,MIUI 11",IPS LCD,5G,60,no,yes,Replaced,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,,No,No,Yes,"Rs 18,500",2020
+Xiaomi,redmi 8a,4,64,5000,8,12,0,0,0,Snapdragon 439 (12 nm),188,"Android 9, MIUI 11",IPS LCD,4G,60,no,yes,Excellent,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,,No,No,No,"Rs 18,500",2019
+Xiaomi,redmi 8a,2,32,5000,8,12,0,0,0,Snapdragon 439 (12 nm),188,"Android 9, MIUI 11",IPS LCD,4G,60,no,no,Excellent,Excellent,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,,Yes,Yes,Yes,"Rs 18,500",2019
+Xiaomi,redmi 9,4,64,5020,8,13,8,5,2,Mediatek Helio G80 (12 nm),198,"Android 10, MIUI 11",IPS LCD,4G,60,yes,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,,No,No,No,"Rs 18,500",2020
+Xiaomi,redmi 9,3,32,5020,8,13,8,5,2,Mediatek Helio G80 (12 nm),198,"Android 10, MIUI 11",IPS LCD,4G,60,yes,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,,No,No,No,"Rs 18,500",2020
+Xiaomi,redmi 9a,4,64,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),196,"Android 10, MIUI 14",IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,,Yes,Yes,Yes,"Rs 18,500",2020
+Xiaomi,redmi note 6 pro,4,64,4000,20,12,5,0,0,Qualcomm Snapdragon 636,180,MIUI 9.6 (Android 8.1),IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,yes,No,Yes,No,No,No,,Yes,Yes,Yes,"Rs 18,500",2018
+Xiaomi,redmi note 10,4,64,5000,8,48,8,2,2,Helio G80,180,Android 11,IPS LCD,4G,90,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,yes,No,Yes,No,No,No,,Yes,Yes,Yes,"Rs 18,500",2021
+Xiaomi,12c,4,64,5000,5,50,0,0,0,Mediatek Helio G85 (12 nm),192,"Android 12, MIUI 13",IPS LCD,4G,60,yes,yes,Moderate,Moderate,No,No,No,No,No,No,yes,No,No,No,No,No,,No,No,No,"Rs 18,500",2022
+Xiaomi,redmi note 8,4,64,5000,13,48,2,0,0,Helio G90T,188,Android 9.0,IPS LCD,4G,90,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,yes,No,Yes,No,No,No,,Yes,Yes,Yes,"Rs 18,500",2019
+Xiaomi,redmi a2,2,32,5000,5,8,0,0,0,Mediatek Helio G36 (12 nm),192,Android 12 (Go edition),IPS LCD,4G,60,no,no,Moderate,Replaced,No,Yes,Yes,Yes,Yes,No,yes,Yes,Yes,No,No,Yes,,No,No,No,"Rs 18,900",2023
+Xiaomi,redmi 10a,2,32,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),194,"Android 11, MIUI 12.5",IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,yes,Yes,No,Yes,No,No,,Yes,No,No,"Rs 18,990",2022
+Xiaomi,12c,6,128,5000,5,50,0,0,0,Mediatek Helio G85 (12 nm),192,"Android 12, MIUI 13",IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,yes,Yes,No,Yes,No,No,,Yes,No,No,"Rs 18,990",2022
+Xiaomi,redmi a1+,2,32,5000,5,8,0,0,0,Mediatek Helio A22 (12 nm),192,"Android 12, MIUI 12",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,yes,Yes,No,No,No,No,,Yes,Yes,No,"Rs 18,990",2022
+Xiaomi,redmi 10a,2,32,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),194,"Android 11, MIUI 12.5",IPS LCD,4G,60,yes,yes,Moderate,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,,No,No,No,"Rs 19,000",2022
+Xiaomi,redmi 9a,3,64,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),196,"Android 10, MIUI 14",IPS LCD,4G,60,yes,no,Moderate,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,,No,No,No,"Rs 19,000",2020
+Xiaomi,redmi 9c,2,32,5000,5,13,2,2,0,MediaTek Helio G35,196,"Android 10, MIUI 12",IPS LCD,4G,60,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,,Yes,Yes,No,"Rs 19,000",2020
+Xiaomi,redmi note 9,3,64,5020,13,48,8,2,2,Mediatek Helio G85 (12 nm),199,"Android 10, MIUI 13",IPS LCD,4G,60,yes,yes,Replaced,Replaced,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,,No,No,Yes,"Rs 19,000",2020
+Xiaomi,redmi note 9s,6,128,5020,16,48,8,5,2,Qualcomm Snapdragon 720G (8nm),209,"Android 10,MIUI 11",IPS LCD,5G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,,No,No,No,"Rs 19,000",2020
+Xiaomi,12c,4,64,5000,5,50,0,0,0,Mediatek Helio G85 (12 nm),192,"Android 12, MIUI 13",IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,,Yes,Yes,No,"Rs 19,000",2022
+Xiaomi,12c,4,128,5000,5,50,0,0,0,Mediatek Helio G85 (12 nm),192,"Android 12, MIUI 13",IPS LCD,4G,60,yes,yes,Moderate,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,,No,No,No,"Rs 19,000",2022
+Xiaomi,12c,2,32,5000,5,50,0,0,0,Mediatek Helio G85 (12 nm),192,"Android 12, MIUI 13",IPS LCD,4G,60,yes,yes,Moderate,Moderate,No,No,Yes,No,No,No,No,No,No,No,No,No,,No,No,No,"Rs 19,000",2022
+Xiaomi,12c,2,32,5000,5,50,0,0,0,Mediatek Helio G85 (12 nm),192,"Android 12, MIUI 13",IPS LCD,4G,60,yes,yes,Replaced,Replaced,No,No,No,No,No,No,No,No,No,No,No,No,,No,No,Yes,"Rs 19,000",2022
+Xiaomi,redmi 8a,4,64,5000,8,12,0,0,0,Snapdragon 439 (12 nm),188,"Android 9, MIUI 11",IPS LCD,4G,60,no,no,Moderate,Excellent,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,,Yes,Yes,Yes,"Rs 19,000",2019
+Xiaomi,redmi note 9,3,64,5020,13,48,8,2,2,Mediatek Helio G85 (12 nm),199,"Android 10, MIUI 13",IPS LCD,4G,60,yes,yes,Moderate,Moderate,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,,No,No,No,"Rs 19,000",2020
+Xiaomi,redmi 9,3,32,5020,8,13,8,5,2,Mediatek Helio G80 (12 nm),198,"Android 10, MIUI 11",IPS LCD,4G,60,yes,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,,Yes,Yes,No,"Rs 19,000",2020
+Xiaomi,redmi 9c,2,32,5000,5,13,2,2,0,MediaTek Helio G35,196,"Android 10, MIUI 12",IPS LCD,4G,60,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,,No,No,No,"Rs 19,000",2020
+Xiaomi,redmi note 9,6,128,5020,13,48,8,2,2,Mediatek Helio G85 (12 nm),199,"Android 10, MIUI 13",IPS LCD,4G,60,yes,yes,Moderate,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,,No,No,No,"Rs 19,000",2020
+Xiaomi,redmi a2,2,32,5000,5,8,0,0,0,Mediatek Helio G36 (12 nm),192,Android 12 (Go edition),IPS LCD,4G,60,no,no,Excellent,Excellent,No,No,No,No,No,No,No,No,No,No,No,No,,No,No,No,"Rs 19,000",2023
+Xiaomi,mi a3,4,64,5000,8,12,0,0,0,Helio P65,180,Android 9.0 (Pie),IPS LCD,4G,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,,No,No,No,"Rs 19,500",2019
+Xiaomi,redmi note 9,3,64,5020,13,48,8,2,2,Mediatek Helio G85 (12 nm),199,"Android 10, MIUI 13",IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,,Yes,Yes,Yes,"Rs 19,500",2020
+Xiaomi,mi a3,4,64,5000,8,48,8,2,2,Helio P65,188,Android 10,IPS LCD,4G,90,no,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,,Yes,Yes,Yes,"Rs 19,500",2019
+Xiaomi,redmi 8,4,64,5000,8,12,2,0,0,Snapdragon 439 (12 nm),188,Android 9.0 (Pie),IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,,No,No,Yes,"Rs 19,500",2019
+Xiaomi,redmi 9a,4,64,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),196,"Android 10, MIUI 14",IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,,Yes,Yes,No,"Rs 19,500",2020
+Xiaomi,redmi note 9,4,128,5020,13,48,8,2,2,Mediatek Helio G85 (12 nm),199,"Android 10, MIUI 13",IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,,Yes,Yes,Yes,"Rs 19,500",2020
+Xiaomi,13c,4,256,5000,8,50,2,0,0,Mediatek Helio G85 (12 nm),192,"Android 13, MIUI 14",IPS LCD,4G,90,yes,yes,Replaced,Replaced,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,,No,No,Yes,"Rs 19,500",2023
+Xiaomi,redmi note 9,6,128,5020,13,48,8,2,2,Mediatek Helio G85 (12 nm),199,"Android 10, MIUI 13",IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,,Yes,Yes,Yes,"Rs 19,500",2020
+Xiaomi,redmi 10a,2,32,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),194,"Android 11, MIUI 12.5",IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,,No,No,No,"Rs 19,500",2022
+Xiaomi,redmi 10a,4,128,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),194,"Android 11, MIUI 12.5",IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,,No,No,Yes,"Rs 19,500",2022
+Xiaomi,redmi 9,3,32,5020,8,13,8,5,2,Mediatek Helio G80 (12 nm),198,"Android 10, MIUI 11",IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,,Yes,Yes,Yes,"Rs 19,999",2020
+Xiaomi,redmi 9a,4,64,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),196,"Android 10, MIUI 14",IPS LCD,4G,60,yes,no,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,,No,No,No,"Rs 20,000",2020
+Xiaomi,poco m3,6,64,5000,8,48,2,2,2,Helio G80,190,Android 11,IPS LCD,4G,90,no,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,,No,No,No,"Rs 20,000",2020
+Xiaomi,redmi 9a,4,64,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),196,"Android 10, MIUI 14",IPS LCD,4G,60,yes,no,Excellent,Excellent,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,,Yes,Yes,Yes,"Rs 20,000",2020
+Xiaomi,13c,4,128,5000,8,50,2,0,0,Mediatek Helio G85 (12 nm),192,"Android 13, MIUI 14",IPS LCD,4G,90,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,,Yes,Yes,No,"Rs 20,000",2023
+Xiaomi,redmi 10a,4,64,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),194,"Android 11, MIUI 12.5",IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,,Yes,Yes,No,"Rs 20,000",2022
+Xiaomi,redmi 10a,2,32,5000,5,13,0,0,0,Mediatek Helio G25(12 nm),194,"Android 11, MIUI 12.5",IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,,Yes,Yes,Yes,"Rs 20,000",2022
+Xiaomi,redmi 9,4,64,5000,8,13,8,5,2,Mediatek Helio G80 (12 nm),198,"Android 10, MIUI 11",IPS LCD,4G,60,yes,yes,Moderate,Excellent,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,,Yes,Yes,Yes,"Rs 20,000",2020
+Xiaomi,poco m2,4,64,5000,8,13,8,5,2,MediaTek Helio G80 (12 nm),198,"Android 10, MIUI 12",IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,yes,No,Yes,Yes,No,Yes,,Yes,Yes,Yes,"Rs 20,000",2020
+Xiaomi,redmi note 8,4,64,5000,13,48,8,2,2,Helio G90T,181,Android 9.0,IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,yes,No,Yes,No,No,No,,No,No,Yes,"Rs 20,000",2019
+Xiaomi,redmi note 9,3,64,5020,13,48,8,2,2,Mediatek Helio G85 (12 nm),199,"Android 10, MIUI 13",IPS LCD,4G,60,yes,yes,Excellent,Moderate,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,,Yes,Yes,No,"Rs 20,000",2020
+Xiaomi,12c,2,32,5000,5,50,0,0,0,Mediatek Helio G85 (12 nm),192,"Android 12, MIUI 13",IPS LCD,4G,60,yes,yes,Moderate,Moderate,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,,No,No,No,"Rs 20,000",2022
+Xiaomi,13c,4,128,5000,8,50,2,0,0,Mediatek Helio G85 (12 nm),192,"Android 13, MIUI 14",IPS LCD,4G,90,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,,Yes,Yes,Yes,"Rs 20,000",2023
+Xiaomi,redmi note 9,3,64,5020,13,48,8,2,2,Mediatek Helio G85 (12 nm),199,"Android 10, MIUI 13",IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,,Yes,Yes,Yes,"Rs 20,000",2020
+Xiaomi,poco m3,4,64,6000,5,48,2,2,2,Helio G80,190,Android 10,IPS LCD,4G,60,yes,yes,Excellent,Moderate,No,Yes,Yes,Yes,No,Yes,yes,No,Yes,No,No,No,,Yes,Yes,Yes,"Rs 20,000",2020
+Xiaomi,redmi note 7 pro,6,128,4000,20,48,0,0,0,Snapdragon 660,186,Android 9.0,IPS LCD,4G,60,yes,yes,Excellent,Excellent,No,Yes,Yes,Yes,No,Yes,yes,No,Yes,No,No,No,,Yes,Yes,Yes,"Rs 20,000",2018
